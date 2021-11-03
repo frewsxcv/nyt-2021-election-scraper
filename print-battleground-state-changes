@@ -542,10 +542,10 @@ html_output(
     'Data for all 50 states and DC is <a href="all-state-changes.html">also available</a>.'
 )
 html_output(
-    "all-state-changes.html",
+    "index.html",
     html_table(summarized),
     states_updated,
-    'View <a href="battleground-state-changes.html">battleground states only</a>.'
+    ''
 )
 
 def csv_output(path, summarized):
