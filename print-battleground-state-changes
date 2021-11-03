@@ -22,7 +22,8 @@ NC_INDEX = 27
 NV_INDEX = 33
 PA_INDEX = 38
 
-BATTLEGROUND_STATES = ["Alaska", "Arizona", "Georgia", "North Carolina", "Nevada", "Pennsylvania"]
+# BATTLEGROUND_STATES = ["Alaska", "Arizona", "Georgia", "North Carolina", "Nevada", "Pennsylvania"]
+BATTLEGROUND_STATES = ["Virginia"]
 STATE_INDEXES = range(51) # 50 States + DC
 
 CACHE_DIR = '_cache'
@@ -428,8 +429,11 @@ for rows in records.values():
         candidate_votes=None,
     )
 
+    # Skip non-governor entries
+    rows = [row for row in rows if 'youngking' in (n['candidate_key'] for n in row.candidates)]
+
     latest_candidate_votes = {c['candidate_key']: c['votes'] for c in rows[-1].candidates}
-    latest_expected_votes = rows[-1].expected_votes
+    latest_expected_votes = rows[-1].expected_votes or 0
 
     for row in rows:
         iteration_info, summary = json_to_summary(
