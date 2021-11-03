@@ -75,8 +75,6 @@ def fetch_all_records():
                 # fall back to the state wide one.
                 tot_exp_vote = race['tot_exp_vote']
 
-            print(dict(race))
-
             record = InputRecord(
                 timestamp,
                 race['state_name'],
