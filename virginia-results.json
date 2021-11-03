@@ -27,8 +27,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2658602,
-        "absentee_votes": 541182,
+        "votes": 2697807,
+        "absentee_votes": 563124,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -40,10 +40,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2505,
+        "precincts_reporting": 2527,
         "precincts_total": 2855,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": 82,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -52,7 +52,7 @@
         "county_data_source": "ap",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:02:22.430Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "youngkin-69739",
@@ -65,12 +65,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1406300,
-            "percent": 52.9,
-            "percent_display": "52.9",
+            "votes": 1424603,
+            "percent": 52.8,
+            "percent_display": "52.8",
             "electoral_votes": 0,
-            "absentee_votes": 202960,
-            "absentee_percent": 37.5,
+            "absentee_votes": 215000,
+            "absentee_percent": 38.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -86,12 +86,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1233714,
-            "percent": 46.4,
-            "percent_display": "46.4",
+            "votes": 1254271,
+            "percent": 46.5,
+            "percent_display": "46.5",
             "electoral_votes": 0,
-            "absentee_votes": 335290,
-            "absentee_percent": 62,
+            "absentee_votes": 345058,
+            "absentee_percent": 61.3,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -107,11 +107,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 18588,
+            "votes": 18933,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 2932,
+            "absentee_votes": 3066,
             "absentee_percent": 0.5,
             "img_url": null,
             "has_image": false,
@@ -119,8 +119,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 6.49161,
-        "leader_margin_votes": 172586,
+        "leader_margin_value": 6.31372,
+        "leader_margin_votes": 170332,
         "leader_margin_display": "R+6",
         "leader_margin_name_display": "Youngkin +6",
         "leader_party_id": "republican",
@@ -200,9 +200,9 @@
           {
             "fips": "51510",
             "name": "Alexandria",
-            "votes": 22929,
+            "votes": 26577,
             "absentee_votes": 0,
-            "reporting": 22,
+            "reporting": 25,
             "precincts": 33,
             "absentee_method": null,
             "eevp": null,
@@ -217,17 +217,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 16363,
-              "youngking": 6409,
-              "blandingp": 157
+              "mcauliffet": 18879,
+              "youngking": 7521,
+              "blandingp": 177
             },
             "results_absentee": {
               "mcauliffet": 0,
               "youngking": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 43.41227,
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 42.7362,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "McAuliffe +43",
             "leader_party_id": "democrat",
@@ -308,9 +308,9 @@
           {
             "fips": "51009",
             "name": "Amherst",
-            "votes": 9057,
+            "votes": 9668,
             "absentee_votes": 0,
-            "reporting": 10,
+            "reporting": 11,
             "precincts": 14,
             "absentee_method": null,
             "eevp": null,
@@ -325,19 +325,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 6877,
-              "mcauliffet": 2135,
-              "blandingp": 45
+              "youngking": 7358,
+              "mcauliffet": 2258,
+              "blandingp": 52
             },
             "results_absentee": {
               "youngking": 0,
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
-            "leader_margin_value": 52.35729,
-            "leader_margin_display": "R+52",
-            "leader_margin_name_display": "Youngkin +52",
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 52.75134,
+            "leader_margin_display": "R+53",
+            "leader_margin_name_display": "Youngkin +53",
             "leader_party_id": "republican",
             "leader_key": "youngking"
           },
@@ -380,9 +380,9 @@
           {
             "fips": "51013",
             "name": "Arlington",
-            "votes": 89452,
-            "absentee_votes": 40895,
-            "reporting": 52,
+            "votes": 92489,
+            "absentee_votes": 41430,
+            "reporting": 54,
             "precincts": 57,
             "absentee_method": null,
             "eevp": null,
@@ -397,17 +397,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 68555,
-              "youngking": 20397,
-              "blandingp": 500
+              "mcauliffet": 70859,
+              "youngking": 21112,
+              "blandingp": 518
             },
             "results_absentee": {
-              "mcauliffet": 34132,
-              "youngking": 6538,
-              "blandingp": 225
+              "mcauliffet": 34613,
+              "youngking": 6589,
+              "blandingp": 228
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 53.83669,
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 53.78694,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "McAuliffe +54",
             "leader_party_id": "democrat",
@@ -956,9 +956,9 @@
           {
             "fips": "51540",
             "name": "Charlottesville",
-            "votes": 10508,
-            "absentee_votes": 0,
-            "reporting": 9,
+            "votes": 12575,
+            "absentee_votes": 2067,
+            "reporting": 10,
             "precincts": 12,
             "absentee_method": null,
             "eevp": null,
@@ -973,28 +973,28 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 8322,
-              "youngking": 2074,
-              "blandingp": 112
+              "mcauliffet": 10181,
+              "youngking": 2254,
+              "blandingp": 140
             },
             "results_absentee": {
-              "mcauliffet": 0,
-              "youngking": 0,
-              "blandingp": 0
+              "mcauliffet": 1859,
+              "youngking": 180,
+              "blandingp": 28
             },
-            "last_updated": "2021-11-03T01:55:17.773Z",
-            "leader_margin_value": 59.45946,
-            "leader_margin_display": "D+59",
-            "leader_margin_name_display": "McAuliffe +59",
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 63.03777,
+            "leader_margin_display": "D+63",
+            "leader_margin_name_display": "McAuliffe +63",
             "leader_party_id": "democrat",
             "leader_key": "mcauliffet"
           },
           {
             "fips": "51550",
             "name": "Chesapeake",
-            "votes": 39320,
+            "votes": 42708,
             "absentee_votes": 0,
-            "reporting": 49,
+            "reporting": 53,
             "precincts": 66,
             "absentee_method": null,
             "eevp": null,
@@ -1009,19 +1009,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 22950,
-              "mcauliffet": 16056,
-              "blandingp": 314
+              "youngking": 24408,
+              "mcauliffet": 17953,
+              "blandingp": 347
             },
             "results_absentee": {
               "youngking": 0,
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 17.53306,
-            "leader_margin_display": "R+18",
-            "leader_margin_name_display": "Youngkin +18",
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 15.11426,
+            "leader_margin_display": "R+15",
+            "leader_margin_name_display": "Youngkin +15",
             "leader_party_id": "republican",
             "leader_key": "youngking"
           },
@@ -2144,9 +2144,9 @@
           {
             "fips": "51085",
             "name": "Hanover",
-            "votes": 41371,
-            "absentee_votes": 4344,
-            "reporting": 37,
+            "votes": 57710,
+            "absentee_votes": 20683,
+            "reporting": 38,
             "precincts": 39,
             "absentee_method": null,
             "eevp": null,
@@ -2161,17 +2161,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 28204,
-              "mcauliffet": 12921,
-              "blandingp": 246
+              "youngking": 39416,
+              "mcauliffet": 17996,
+              "blandingp": 298
             },
             "results_absentee": {
-              "youngking": 1624,
-              "mcauliffet": 2677,
-              "blandingp": 43
+              "youngking": 12836,
+              "mcauliffet": 7752,
+              "blandingp": 95
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 36.94134,
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 37.11662,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Youngkin +37",
             "leader_party_id": "republican",
@@ -3728,9 +3728,9 @@
           {
             "fips": "51153",
             "name": "Prince William",
-            "votes": 89109,
+            "votes": 91054,
             "absentee_votes": 0,
-            "reporting": 85,
+            "reporting": 87,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -3745,17 +3745,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 46656,
-              "youngking": 41756,
-              "blandingp": 697
+              "mcauliffet": 47659,
+              "youngking": 42688,
+              "blandingp": 707
             },
             "results_absentee": {
               "mcauliffet": 0,
               "youngking": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 5.49888,
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 5.4594,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "McAuliffe +5",
             "leader_party_id": "democrat",
@@ -3908,9 +3908,9 @@
           {
             "fips": "51760",
             "name": "Richmond City",
-            "votes": 43847,
+            "votes": 47176,
             "absentee_votes": 0,
-            "reporting": 55,
+            "reporting": 60,
             "precincts": 72,
             "absentee_method": null,
             "eevp": null,
@@ -3925,28 +3925,28 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 31809,
-              "youngking": 10428,
-              "blandingp": 1610
+              "mcauliffet": 34590,
+              "youngking": 10862,
+              "blandingp": 1724
             },
             "results_absentee": {
               "mcauliffet": 0,
               "youngking": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 48.76274,
-            "leader_margin_display": "D+49",
-            "leader_margin_name_display": "McAuliffe +49",
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 50.29676,
+            "leader_margin_display": "D+50",
+            "leader_margin_name_display": "McAuliffe +50",
             "leader_party_id": "democrat",
             "leader_key": "mcauliffet"
           },
           {
             "fips": "51161",
             "name": "Roanoke",
-            "votes": 39650,
+            "votes": 41490,
             "absentee_votes": 15037,
-            "reporting": 32,
+            "reporting": 34,
             "precincts": 36,
             "absentee_method": null,
             "eevp": null,
@@ -3961,17 +3961,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 26150,
-              "mcauliffet": 13299,
-              "blandingp": 201
+              "youngking": 27332,
+              "mcauliffet": 13945,
+              "blandingp": 213
             },
             "results_absentee": {
               "youngking": 8362,
               "mcauliffet": 6614,
               "blandingp": 61
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
-            "leader_margin_value": 32.4111,
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 32.26561,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
             "leader_party_id": "republican",
@@ -3980,9 +3980,9 @@
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 17885,
-            "absentee_votes": 0,
-            "reporting": 20,
+            "votes": 20886,
+            "absentee_votes": 3001,
+            "reporting": 21,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -3997,19 +3997,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 8965,
-              "youngking": 8747,
-              "blandingp": 173
+              "mcauliffet": 11318,
+              "youngking": 9344,
+              "blandingp": 224
             },
             "results_absentee": {
-              "mcauliffet": 0,
-              "youngking": 0,
-              "blandingp": 0
+              "mcauliffet": 2353,
+              "youngking": 597,
+              "blandingp": 51
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
-            "leader_margin_value": 1.2189,
-            "leader_margin_display": "D+1.2",
-            "leader_margin_name_display": "McAuliffe +1.2",
+            "last_updated": "2021-11-03T02:04:23.423Z",
+            "leader_margin_value": 9.45131,
+            "leader_margin_display": "D+9",
+            "leader_margin_name_display": "McAuliffe +9",
             "leader_party_id": "democrat",
             "leader_key": "mcauliffet"
           },
@@ -4960,8 +4960,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2638651,
-        "absentee_votes": 594859,
+        "votes": 2690319,
+        "absentee_votes": 629423,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -4973,7 +4973,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2503,
+        "precincts_reporting": 2526,
         "precincts_total": 2855,
         "reporting_display": "88% reporting",
         "reporting_value": "88%",
@@ -4985,7 +4985,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:02:22.430Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "sears-65856",
@@ -4998,12 +4998,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1399101,
-            "percent": 53,
-            "percent_display": "53.0",
+            "votes": 1423639,
+            "percent": 52.9,
+            "percent_display": "52.9",
             "electoral_votes": 0,
-            "absentee_votes": 225710,
-            "absentee_percent": 37.9,
+            "absentee_votes": 244044,
+            "absentee_percent": 38.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -5019,12 +5019,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1239550,
-            "percent": 47,
-            "percent_display": "47.0",
+            "votes": 1266680,
+            "percent": 47.1,
+            "percent_display": "47.1",
             "electoral_votes": 0,
-            "absentee_votes": 369149,
-            "absentee_percent": 62.1,
+            "absentee_votes": 385379,
+            "absentee_percent": 61.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -5093,9 +5093,9 @@
           {
             "fips": "51510",
             "name": "Alexandria",
-            "votes": 22664,
+            "votes": 26268,
             "absentee_votes": 0,
-            "reporting": 22,
+            "reporting": 25,
             "precincts": 33,
             "absentee_method": null,
             "eevp": null,
@@ -5110,14 +5110,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 16419,
-              "searsw": 6245
+              "ayalah": 18936,
+              "searsw": 7332
             },
             "results_absentee": {
               "ayalah": 0,
               "searsw": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51005",
@@ -5180,9 +5180,9 @@
           {
             "fips": "51009",
             "name": "Amherst",
-            "votes": 9000,
+            "votes": 9608,
             "absentee_votes": 0,
-            "reporting": 10,
+            "reporting": 11,
             "precincts": 14,
             "absentee_method": null,
             "eevp": null,
@@ -5197,14 +5197,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 6804,
-              "ayalah": 2196
+              "searsw": 7282,
+              "ayalah": 2326
             },
             "results_absentee": {
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T00:34:12.177Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51011",
@@ -5238,9 +5238,9 @@
           {
             "fips": "51013",
             "name": "Arlington",
-            "votes": 88753,
-            "absentee_votes": 40656,
-            "reporting": 52,
+            "votes": 91767,
+            "absentee_votes": 41193,
+            "reporting": 54,
             "precincts": 57,
             "absentee_method": null,
             "eevp": null,
@@ -5255,14 +5255,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 68551,
-              "searsw": 20202
+              "ayalah": 70871,
+              "searsw": 20896
             },
             "results_absentee": {
-              "ayalah": 34050,
-              "searsw": 6606
+              "ayalah": 34532,
+              "searsw": 6661
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51015",
@@ -5702,9 +5702,9 @@
           {
             "fips": "51540",
             "name": "Charlottesville",
-            "votes": 10403,
-            "absentee_votes": 0,
-            "reporting": 9,
+            "votes": 12463,
+            "absentee_votes": 2060,
+            "reporting": 10,
             "precincts": 12,
             "absentee_method": null,
             "eevp": null,
@@ -5719,21 +5719,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 8301,
-              "searsw": 2102
+              "ayalah": 10165,
+              "searsw": 2298
             },
             "results_absentee": {
-              "ayalah": 0,
-              "searsw": 0
+              "ayalah": 1864,
+              "searsw": 196
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51550",
             "name": "Chesapeake",
-            "votes": 39161,
+            "votes": 42533,
             "absentee_votes": 0,
-            "reporting": 49,
+            "reporting": 53,
             "precincts": 66,
             "absentee_method": null,
             "eevp": null,
@@ -5748,14 +5748,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 23057,
-              "ayalah": 16104
+              "searsw": 24529,
+              "ayalah": 18004
             },
             "results_absentee": {
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51041",
@@ -6659,9 +6659,9 @@
           {
             "fips": "51085",
             "name": "Hanover",
-            "votes": 41485,
-            "absentee_votes": 4323,
-            "reporting": 37,
+            "votes": 57763,
+            "absentee_votes": 20601,
+            "reporting": 38,
             "precincts": 39,
             "absentee_method": null,
             "eevp": null,
@@ -6676,14 +6676,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 28488,
-              "ayalah": 12997
+              "searsw": 39672,
+              "ayalah": 18091
             },
             "results_absentee": {
-              "searsw": 1643,
-              "ayalah": 2680
+              "searsw": 12827,
+              "ayalah": 7774
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51660",
@@ -7935,9 +7935,9 @@
           {
             "fips": "51153",
             "name": "Prince William",
-            "votes": 88755,
+            "votes": 90695,
             "absentee_votes": 0,
-            "reporting": 85,
+            "reporting": 87,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -7952,14 +7952,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 47452,
-              "searsw": 41303
+              "ayalah": 48478,
+              "searsw": 42217
             },
             "results_absentee": {
               "ayalah": 0,
               "searsw": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51155",
@@ -8080,9 +8080,9 @@
           {
             "fips": "51760",
             "name": "Richmond City",
-            "votes": 44358,
+            "votes": 47272,
             "absentee_votes": 0,
-            "reporting": 56,
+            "reporting": 60,
             "precincts": 72,
             "absentee_method": null,
             "eevp": null,
@@ -8097,21 +8097,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 33588,
-              "searsw": 10770
+              "ayalah": 36055,
+              "searsw": 11217
             },
             "results_absentee": {
               "ayalah": 0,
               "searsw": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51161",
             "name": "Roanoke",
-            "votes": 39431,
+            "votes": 41620,
             "absentee_votes": 14959,
-            "reporting": 32,
+            "reporting": 35,
             "precincts": 36,
             "absentee_method": null,
             "eevp": null,
@@ -8126,21 +8126,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 25913,
-              "ayalah": 13518
+              "searsw": 27080,
+              "ayalah": 14540
             },
             "results_absentee": {
               "searsw": 8347,
               "ayalah": 6612
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 17685,
-            "absentee_votes": 0,
-            "reporting": 20,
+            "votes": 20655,
+            "absentee_votes": 2970,
+            "reporting": 21,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -8155,14 +8155,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 9082,
-              "searsw": 8603
+              "ayalah": 11439,
+              "searsw": 9216
             },
             "results_absentee": {
-              "ayalah": 0,
-              "searsw": 0
+              "ayalah": 2357,
+              "searsw": 613
             },
-            "last_updated": "2021-11-03T00:34:12.177Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51163",
@@ -8428,9 +8428,9 @@
           {
             "fips": "51179",
             "name": "Stafford",
-            "votes": 39914,
-            "absentee_votes": 0,
-            "reporting": 27,
+            "votes": 52633,
+            "absentee_votes": 12719,
+            "reporting": 28,
             "precincts": 30,
             "absentee_method": null,
             "eevp": null,
@@ -8445,14 +8445,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 23757,
-              "ayalah": 16157
+              "searsw": 30043,
+              "ayalah": 22590
             },
             "results_absentee": {
-              "searsw": 0,
-              "ayalah": 0
+              "searsw": 6286,
+              "ayalah": 6433
             },
-            "last_updated": "2021-11-03T00:13:54.950Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51790",
@@ -8996,8 +8996,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 15870,
-        "absentee_votes": 0,
+        "votes": 18525,
+        "absentee_votes": 2655,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -9009,10 +9009,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 19,
+        "precincts_reporting": 20,
         "precincts_total": 27,
-        "reporting_display": "70% reporting",
-        "reporting_value": "70%",
+        "reporting_display": "74% reporting",
+        "reporting_value": "74%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -9022,7 +9022,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:05:41.327Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "king-49676",
@@ -9035,12 +9035,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 8232,
-            "percent": 51.9,
-            "percent_display": "51.9",
+            "votes": 9518,
+            "percent": 51.4,
+            "percent_display": "51.4",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 1286,
+            "absentee_percent": 48.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -9056,12 +9056,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7638,
-            "percent": 48.1,
-            "percent_display": "48.1",
+            "votes": 9007,
+            "percent": 48.6,
+            "percent_display": "48.6",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 1369,
+            "absentee_percent": 51.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -9506,7 +9506,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 33000,
+        "votes": 34229,
         "absentee_votes": 11636,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -9519,10 +9519,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 40,
+        "precincts_reporting": 41,
         "precincts_total": 49,
-        "reporting_display": "82% reporting",
-        "reporting_value": "82%",
+        "reporting_display": "84% reporting",
+        "reporting_value": "84%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -9532,7 +9532,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "mcnamara-49541",
@@ -9545,7 +9545,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 23660,
+            "votes": 24556,
             "percent": 71.7,
             "percent_display": "71.7",
             "electoral_votes": 0,
@@ -9566,7 +9566,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9340,
+            "votes": 9673,
             "percent": 28.3,
             "percent_display": "28.3",
             "electoral_votes": 0,
@@ -9803,8 +9803,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 13587,
-        "absentee_votes": 0,
+        "votes": 15879,
+        "absentee_votes": 2292,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -9816,10 +9816,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 19,
+        "precincts_reporting": 20,
         "precincts_total": 22,
-        "reporting_display": "86% reporting",
-        "reporting_value": "86%",
+        "reporting_display": "91% reporting",
+        "reporting_value": "91%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -9829,7 +9829,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T00:34:12.177Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "rasoul-49370",
@@ -9842,12 +9842,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 7837,
-            "percent": 57.7,
-            "percent_display": "57.7",
+            "votes": 9748,
+            "percent": 61.4,
+            "percent_display": "61.4",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 1911,
+            "absentee_percent": 83.4,
             "img_url": null
           },
           {
@@ -9861,12 +9861,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5750,
-            "percent": 42.3,
-            "percent_display": "42.3",
+            "votes": 6131,
+            "percent": 38.6,
+            "percent_display": "38.6",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 381,
+            "absentee_percent": 16.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -9999,7 +9999,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16856,
+        "votes": 18044,
         "absentee_votes": 1384,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -10012,10 +10012,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 19,
+        "precincts_reporting": 20,
         "precincts_total": 24,
-        "reporting_display": "79% reporting",
-        "reporting_value": "79%",
+        "reporting_display": "83% reporting",
+        "reporting_value": "83%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10025,7 +10025,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:44:09.337Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "roem-49311",
@@ -10038,9 +10038,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 8801,
-            "percent": 52.2,
-            "percent_display": "52.2",
+            "votes": 9399,
+            "percent": 52.1,
+            "percent_display": "52.1",
             "electoral_votes": 0,
             "absentee_votes": 941,
             "absentee_percent": 68,
@@ -10059,9 +10059,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8055,
-            "percent": 47.8,
-            "percent_display": "47.8",
+            "votes": 8645,
+            "percent": 47.9,
+            "percent_display": "47.9",
             "electoral_votes": 0,
             "absentee_votes": 443,
             "absentee_percent": 32,
@@ -11109,7 +11109,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 24999,
+        "votes": 25604,
         "absentee_votes": 1401,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -11122,10 +11122,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 48,
+        "precincts_reporting": 49,
         "precincts_total": 60,
-        "reporting_display": "80% reporting",
-        "reporting_value": "80%",
+        "reporting_display": "82% reporting",
+        "reporting_value": "82%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11135,7 +11135,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:29:59.520Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "campbell-49618",
@@ -11148,9 +11148,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 19206,
-            "percent": 76.8,
-            "percent_display": "76.8",
+            "votes": 19689,
+            "percent": 76.9,
+            "percent_display": "76.9",
             "electoral_votes": 0,
             "absentee_votes": 501,
             "absentee_percent": 35.8,
@@ -11169,9 +11169,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5793,
-            "percent": 23.2,
-            "percent_display": "23.2",
+            "votes": 5915,
+            "percent": 23.1,
+            "percent_display": "23.1",
             "electoral_votes": 0,
             "absentee_votes": 900,
             "absentee_percent": 64.2,
@@ -11505,8 +11505,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23691,
-        "absentee_votes": 1391,
+        "votes": 29653,
+        "absentee_votes": 7353,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -11518,10 +11518,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 23,
+        "precincts_reporting": 24,
         "precincts_total": 27,
-        "reporting_display": "85% reporting",
-        "reporting_value": "85%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11531,7 +11531,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:44:09.337Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "durant-49656",
@@ -11544,12 +11544,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12853,
-            "percent": 54.3,
-            "percent_display": "54.3",
+            "votes": 15647,
+            "percent": 52.8,
+            "percent_display": "52.8",
             "electoral_votes": 0,
-            "absentee_votes": 359,
-            "absentee_percent": 25.8,
+            "absentee_votes": 3153,
+            "absentee_percent": 42.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11565,12 +11565,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 10838,
-            "percent": 45.7,
-            "percent_display": "45.7",
+            "votes": 14006,
+            "percent": 47.2,
+            "percent_display": "47.2",
             "electoral_votes": 0,
-            "absentee_votes": 1032,
-            "absentee_percent": 74.2,
+            "absentee_votes": 4200,
+            "absentee_percent": 57.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -12116,7 +12116,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -12146,7 +12146,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:33.84Z",
         "candidates": [
           {
             "candidate_id": "murphy-49392",
@@ -12158,7 +12158,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 18991,
             "percent": 57.8,
             "percent_display": "57.8",
@@ -12318,7 +12318,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23112,
+        "votes": 24266,
         "absentee_votes": 15054,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12331,10 +12331,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 9,
+        "precincts_reporting": 10,
         "precincts_total": 20,
-        "reporting_display": "45% reporting",
-        "reporting_value": "45%",
+        "reporting_display": "50% reporting",
+        "reporting_value": "50%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12344,7 +12344,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:55:17.773Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "plum-49394",
@@ -12357,9 +12357,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 17181,
-            "percent": 74.3,
-            "percent_display": "74.3",
+            "votes": 17926,
+            "percent": 73.9,
+            "percent_display": "73.9",
             "electoral_votes": 0,
             "absentee_votes": 11845,
             "absentee_percent": 78.7,
@@ -12378,9 +12378,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5931,
-            "percent": 25.7,
-            "percent_display": "25.7",
+            "votes": 6340,
+            "percent": 26.1,
+            "percent_display": "26.1",
             "electoral_votes": 0,
             "absentee_votes": 3209,
             "absentee_percent": 21.3,
@@ -12417,7 +12417,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23723,
+        "votes": 24305,
         "absentee_votes": 10608,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12430,10 +12430,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 17,
+        "precincts_reporting": 18,
         "precincts_total": 22,
-        "reporting_display": "77% reporting",
-        "reporting_value": "77%",
+        "reporting_display": "82% reporting",
+        "reporting_value": "82%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12443,7 +12443,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:23:55.377Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "bulova-49395",
@@ -12456,9 +12456,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 15862,
-            "percent": 66.9,
-            "percent_display": "66.9",
+            "votes": 16245,
+            "percent": 66.8,
+            "percent_display": "66.8",
             "electoral_votes": 0,
             "absentee_votes": 7781,
             "absentee_percent": 73.4,
@@ -12477,9 +12477,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7861,
-            "percent": 33.1,
-            "percent_display": "33.1",
+            "votes": 8060,
+            "percent": 33.2,
+            "percent_display": "33.2",
             "electoral_votes": 0,
             "absentee_votes": 2827,
             "absentee_percent": 26.6,
@@ -12714,7 +12714,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19161,
+        "votes": 21218,
         "absentee_votes": 9883,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12727,10 +12727,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 14,
+        "precincts_reporting": 15,
         "precincts_total": 27,
-        "reporting_display": "52% reporting",
-        "reporting_value": "52%",
+        "reporting_display": "56% reporting",
+        "reporting_value": "56%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12740,7 +12740,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:44:09.337Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "helmer-66943",
@@ -12753,9 +12753,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 11142,
-            "percent": 58.1,
-            "percent_display": "58.1",
+            "votes": 12153,
+            "percent": 57.3,
+            "percent_display": "57.3",
             "electoral_votes": 0,
             "absentee_votes": 6199,
             "absentee_percent": 62.7,
@@ -12774,9 +12774,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8019,
-            "percent": 41.9,
-            "percent_display": "41.9",
+            "votes": 9065,
+            "percent": 42.7,
+            "percent_display": "42.7",
             "electoral_votes": 0,
             "absentee_votes": 3684,
             "absentee_percent": 37.3,
@@ -13209,8 +13209,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22864,
-        "absentee_votes": 3198,
+        "votes": 22913,
+        "absentee_votes": 3247,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -13235,7 +13235,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "bennett-parker-49694",
@@ -13248,12 +13248,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 16393,
+            "votes": 16438,
             "percent": 71.7,
             "percent_display": "71.7",
             "electoral_votes": 0,
-            "absentee_votes": 2653,
-            "absentee_percent": 83,
+            "absentee_votes": 2698,
+            "absentee_percent": 83.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -13269,12 +13269,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6471,
+            "votes": 6475,
             "percent": 28.3,
             "percent_display": "28.3",
             "electoral_votes": 0,
-            "absentee_votes": 545,
-            "absentee_percent": 17,
+            "absentee_votes": 549,
+            "absentee_percent": 16.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -13386,8 +13386,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 37299,
-        "absentee_votes": 17183,
+        "votes": 38612,
+        "absentee_votes": 17413,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -13399,10 +13399,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 24,
+        "precincts_reporting": 25,
         "precincts_total": 27,
-        "reporting_display": "89% reporting",
-        "reporting_value": "89%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13412,7 +13412,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "hope-49405",
@@ -13425,11 +13425,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 29264,
-            "percent": 78.5,
-            "percent_display": "78.5",
+            "votes": 30265,
+            "percent": 78.4,
+            "percent_display": "78.4",
             "electoral_votes": 0,
-            "absentee_votes": 14655,
+            "absentee_votes": 14857,
             "absentee_percent": 85.3,
             "img_url": null,
             "has_image": false,
@@ -13446,11 +13446,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8035,
-            "percent": 21.5,
-            "percent_display": "21.5",
+            "votes": 8347,
+            "percent": 21.6,
+            "percent_display": "21.6",
             "electoral_votes": 0,
-            "absentee_votes": 2528,
+            "absentee_votes": 2556,
             "absentee_percent": 14.7,
             "img_url": null,
             "has_image": false,
@@ -13485,8 +13485,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 31868,
-        "absentee_votes": 18070,
+        "votes": 33431,
+        "absentee_votes": 18249,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -13498,10 +13498,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 18,
+        "precincts_reporting": 19,
         "precincts_total": 27,
-        "reporting_display": "67% reporting",
-        "reporting_value": "67%",
+        "reporting_display": "70% reporting",
+        "reporting_value": "70%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13511,7 +13511,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "sullivan-49406",
@@ -13524,12 +13524,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 23576,
-            "percent": 74,
-            "percent_display": "74.0",
+            "votes": 24771,
+            "percent": 74.1,
+            "percent_display": "74.1",
             "electoral_votes": 0,
-            "absentee_votes": 14218,
-            "absentee_percent": 78.7,
+            "absentee_votes": 14383,
+            "absentee_percent": 78.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -13545,12 +13545,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8292,
-            "percent": 26,
-            "percent_display": "26.0",
+            "votes": 8660,
+            "percent": 25.9,
+            "percent_display": "25.9",
             "electoral_votes": 0,
-            "absentee_votes": 3852,
-            "absentee_percent": 21.3,
+            "absentee_votes": 3866,
+            "absentee_percent": 21.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -13584,8 +13584,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22405,
-        "absentee_votes": 9192,
+        "votes": 22481,
+        "absentee_votes": 9268,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -13610,7 +13610,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:46:10.747Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "lopez-49407",
@@ -13623,11 +13623,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 17176,
+            "votes": 17243,
             "percent": 76.7,
             "percent_display": "76.7",
             "electoral_votes": 0,
-            "absentee_votes": 7644,
+            "absentee_votes": 7711,
             "absentee_percent": 83.2,
             "img_url": null,
             "has_image": false,
@@ -13644,12 +13644,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4312,
+            "votes": 4319,
             "percent": 19.2,
             "percent_display": "19.2",
             "electoral_votes": 0,
-            "absentee_votes": 1275,
-            "absentee_percent": 13.9,
+            "absentee_votes": 1282,
+            "absentee_percent": 13.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -13665,11 +13665,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 917,
+            "votes": 919,
             "percent": 4.1,
             "percent_display": "4.1",
             "electoral_votes": 0,
-            "absentee_votes": 273,
+            "absentee_votes": 275,
             "absentee_percent": 3,
             "img_url": null,
             "has_image": false,
@@ -13803,7 +13803,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19784,
+        "votes": 20521,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13816,10 +13816,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 18,
+        "precincts_reporting": 19,
         "precincts_total": 24,
-        "reporting_display": "75% reporting",
-        "reporting_value": "75%",
+        "reporting_display": "79% reporting",
+        "reporting_value": "79%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13829,7 +13829,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "cox-49665",
@@ -13842,9 +13842,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10471,
-            "percent": 52.9,
-            "percent_display": "52.9",
+            "votes": 10793,
+            "percent": 52.6,
+            "percent_display": "52.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -13863,9 +13863,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9313,
-            "percent": 47.1,
-            "percent_display": "47.1",
+            "votes": 9728,
+            "percent": 47.4,
+            "percent_display": "47.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -14001,7 +14001,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22243,
+        "votes": 23420,
         "absentee_votes": 10954,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14014,10 +14014,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 16,
+        "precincts_reporting": 17,
         "precincts_total": 24,
-        "reporting_display": "67% reporting",
-        "reporting_value": "67%",
+        "reporting_display": "71% reporting",
+        "reporting_value": "71%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14027,7 +14027,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "simon-49410",
@@ -14040,9 +14040,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 16293,
-            "percent": 73.3,
-            "percent_display": "73.3",
+            "votes": 16982,
+            "percent": 72.5,
+            "percent_display": "72.5",
             "electoral_votes": 0,
             "absentee_votes": 8833,
             "absentee_percent": 80.6,
@@ -14061,9 +14061,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5950,
-            "percent": 26.8,
-            "percent_display": "26.8",
+            "votes": 6438,
+            "percent": 27.5,
+            "percent_display": "27.5",
             "electoral_votes": 0,
             "absentee_votes": 2121,
             "absentee_percent": 19.4,
@@ -14199,8 +14199,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 35603,
-        "absentee_votes": 5717,
+        "votes": 44060,
+        "absentee_votes": 14174,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -14212,10 +14212,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 38,
+        "precincts_reporting": 39,
         "precincts_total": 42,
-        "reporting_display": "90% reporting",
-        "reporting_value": "90%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14225,7 +14225,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "fowler-49411",
@@ -14238,12 +14238,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 21496,
-            "percent": 60.4,
-            "percent_display": "60.4",
+            "votes": 26943,
+            "percent": 61.2,
+            "percent_display": "61.2",
             "electoral_votes": 0,
-            "absentee_votes": 2445,
-            "absentee_percent": 42.8,
+            "absentee_votes": 7892,
+            "absentee_percent": 55.7,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -14259,12 +14259,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 14107,
-            "percent": 39.6,
-            "percent_display": "39.6",
+            "votes": 17117,
+            "percent": 38.8,
+            "percent_display": "38.8",
             "electoral_votes": 0,
-            "absentee_votes": 3272,
-            "absentee_percent": 57.2,
+            "absentee_votes": 6282,
+            "absentee_percent": 44.3,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -14397,8 +14397,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25167,
-        "absentee_votes": 6197,
+        "votes": 27214,
+        "absentee_votes": 8244,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -14410,10 +14410,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 21,
+        "precincts_reporting": 22,
         "precincts_total": 25,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14423,7 +14423,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "hudson-49631",
@@ -14436,12 +14436,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 19021,
-            "percent": 75.6,
-            "percent_display": "75.6",
+            "votes": 20895,
+            "percent": 76.8,
+            "percent_display": "76.8",
             "electoral_votes": 0,
-            "absentee_votes": 4878,
-            "absentee_percent": 78.7,
+            "absentee_votes": 6752,
+            "absentee_percent": 81.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -14457,12 +14457,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6146,
-            "percent": 24.4,
-            "percent_display": "24.4",
+            "votes": 6319,
+            "percent": 23.2,
+            "percent_display": "23.2",
             "electoral_votes": 0,
-            "absentee_votes": 1319,
-            "absentee_percent": 21.3,
+            "absentee_votes": 1492,
+            "absentee_percent": 18.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15309,7 +15309,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 18768,
+        "votes": 18789,
         "absentee_votes": 3484,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15322,10 +15322,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 22,
+        "precincts_reporting": 23,
         "precincts_total": 31,
-        "reporting_display": "71% reporting",
-        "reporting_value": "71%",
+        "reporting_display": "74% reporting",
+        "reporting_value": "74%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15335,7 +15335,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:19:52.527Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "cherry-49667",
@@ -15348,7 +15348,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10884,
+            "votes": 10890,
             "percent": 58,
             "percent_display": "58.0",
             "electoral_votes": 0,
@@ -15369,7 +15369,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7884,
+            "votes": 7899,
             "percent": 42,
             "percent_display": "42.0",
             "electoral_votes": 0,
@@ -15606,7 +15606,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 9589,
+        "votes": 11977,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15619,10 +15619,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 11,
+        "precincts_reporting": 15,
         "precincts_total": 25,
-        "reporting_display": "44% reporting",
-        "reporting_value": "44%",
+        "reporting_display": "60% reporting",
+        "reporting_value": "60%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15632,7 +15632,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "carr-49423",
@@ -15645,9 +15645,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 7795,
-            "percent": 81.3,
-            "percent_display": "81.3",
+            "votes": 9864,
+            "percent": 82.4,
+            "percent_display": "82.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -15666,9 +15666,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1794,
-            "percent": 18.7,
-            "percent_display": "18.7",
+            "votes": 2113,
+            "percent": 17.6,
+            "percent_display": "17.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -15817,10 +15817,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 29,
+        "precincts_reporting": 30,
         "precincts_total": 35,
-        "reporting_display": "83% reporting",
-        "reporting_value": "83%",
+        "reporting_display": "86% reporting",
+        "reporting_value": "86%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15830,7 +15830,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "bourne-49424",
@@ -16419,7 +16419,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 9392,
+        "votes": 12753,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -16432,10 +16432,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 17,
+        "precincts_reporting": 21,
         "precincts_total": 30,
-        "reporting_display": "57% reporting",
-        "reporting_value": "57%",
+        "reporting_display": "70% reporting",
+        "reporting_value": "70%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -16445,7 +16445,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "hayes-49274",
@@ -16458,7 +16458,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5505,
+            "votes": 7476,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -16479,7 +16479,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3887,
+            "votes": 5277,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -17310,7 +17310,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 20898,
+        "votes": 21695,
         "absentee_votes": 9485,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -17323,10 +17323,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 13,
+        "precincts_reporting": 14,
         "precincts_total": 21,
-        "reporting_display": "62% reporting",
-        "reporting_value": "62%",
+        "reporting_display": "67% reporting",
+        "reporting_value": "67%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -17336,7 +17336,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "shin-49716",
@@ -17349,9 +17349,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 14104,
-            "percent": 67.5,
-            "percent_display": "67.5",
+            "votes": 14581,
+            "percent": 67.2,
+            "percent_display": "67.2",
             "electoral_votes": 0,
             "absentee_votes": 7105,
             "absentee_percent": 74.9,
@@ -17370,9 +17370,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6794,
-            "percent": 32.5,
-            "percent_display": "32.5",
+            "votes": 7114,
+            "percent": 32.8,
+            "percent_display": "32.8",
             "electoral_votes": 0,
             "absentee_votes": 2380,
             "absentee_percent": 25.1,
@@ -17508,8 +17508,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 32940,
-        "absentee_votes": 7147,
+        "votes": 36976,
+        "absentee_votes": 11183,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -17521,10 +17521,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 27,
+        "precincts_reporting": 28,
         "precincts_total": 35,
-        "reporting_display": "77% reporting",
-        "reporting_value": "77%",
+        "reporting_display": "80% reporting",
+        "reporting_value": "80%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -17534,7 +17534,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:45:10.043Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "scott-49736",
@@ -17547,12 +17547,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 19324,
-            "percent": 58.7,
-            "percent_display": "58.7",
+            "votes": 21461,
+            "percent": 58,
+            "percent_display": "58.0",
             "electoral_votes": 0,
-            "absentee_votes": 3377,
-            "absentee_percent": 47.3,
+            "absentee_votes": 5514,
+            "absentee_percent": 49.3,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -17568,12 +17568,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12988,
-            "percent": 39.4,
-            "percent_display": "39.4",
+            "votes": 14835,
+            "percent": 40.1,
+            "percent_display": "40.1",
             "electoral_votes": 0,
-            "absentee_votes": 3672,
-            "absentee_percent": 51.4,
+            "absentee_votes": 5519,
+            "absentee_percent": 49.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -17589,12 +17589,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 628,
-            "percent": 1.9,
-            "percent_display": "1.9",
+            "votes": 680,
+            "percent": 1.8,
+            "percent_display": "1.8",
             "electoral_votes": 0,
-            "absentee_votes": 98,
-            "absentee_percent": 1.4,
+            "absentee_votes": 150,
+            "absentee_percent": 1.3,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18441,8 +18441,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 37301,
-        "absentee_votes": 4193,
+        "votes": 45088,
+        "absentee_votes": 11980,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -18454,10 +18454,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 35,
+        "precincts_reporting": 36,
         "precincts_total": 40,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "90% reporting",
+        "reporting_value": "90%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -18467,7 +18467,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:54:17.073Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "wyatt-49633",
@@ -18480,12 +18480,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 27410,
-            "percent": 73.5,
-            "percent_display": "73.5",
+            "votes": 33264,
+            "percent": 73.8,
+            "percent_display": "73.8",
             "electoral_votes": 0,
-            "absentee_votes": 2318,
-            "absentee_percent": 55.3,
+            "absentee_votes": 8172,
+            "absentee_percent": 68.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18501,12 +18501,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9891,
-            "percent": 26.5,
-            "percent_display": "26.5",
+            "votes": 11824,
+            "percent": 26.2,
+            "percent_display": "26.2",
             "electoral_votes": 0,
-            "absentee_votes": 1875,
-            "absentee_percent": 44.7,
+            "absentee_votes": 3808,
+            "absentee_percent": 31.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18837,8 +18837,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2641007,
-        "absentee_votes": 602042,
+        "votes": 2693486,
+        "absentee_votes": 636620,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -18850,7 +18850,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2473,
+        "precincts_reporting": 2496,
         "precincts_total": 2855,
         "reporting_display": "87% reporting",
         "reporting_value": "87%",
@@ -18862,7 +18862,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:02:22.430Z",
+        "last_updated": "2021-11-03T02:04:23.423Z",
         "candidates": [
           {
             "candidate_id": "miyares-49434",
@@ -18875,12 +18875,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1390169,
+            "votes": 1415535,
             "percent": 52.6,
             "percent_display": "52.6",
             "electoral_votes": 0,
-            "absentee_votes": 230232,
-            "absentee_percent": 38.2,
+            "absentee_votes": 248594,
+            "absentee_percent": 39,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18896,12 +18896,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1250838,
+            "votes": 1277951,
             "percent": 47.4,
             "percent_display": "47.4",
             "electoral_votes": 0,
-            "absentee_votes": 371810,
-            "absentee_percent": 61.8,
+            "absentee_votes": 388026,
+            "absentee_percent": 61,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18970,9 +18970,9 @@
           {
             "fips": "51510",
             "name": "Alexandria",
-            "votes": 22647,
+            "votes": 26260,
             "absentee_votes": 0,
-            "reporting": 22,
+            "reporting": 25,
             "precincts": 33,
             "absentee_method": null,
             "eevp": null,
@@ -18987,14 +18987,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 16445,
-              "miyaresj": 6202
+              "herringm": 18999,
+              "miyaresj": 7261
             },
             "results_absentee": {
               "herringm": 0,
               "miyaresj": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51005",
@@ -19057,9 +19057,9 @@
           {
             "fips": "51009",
             "name": "Amherst",
-            "votes": 9000,
+            "votes": 9664,
             "absentee_votes": 0,
-            "reporting": 10,
+            "reporting": 11,
             "precincts": 14,
             "absentee_method": null,
             "eevp": null,
@@ -19074,14 +19074,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 6790,
-              "herringm": 2210
+              "miyaresj": 7336,
+              "herringm": 2328
             },
             "results_absentee": {
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T00:34:12.177Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51011",
@@ -19115,9 +19115,9 @@
           {
             "fips": "51013",
             "name": "Arlington",
-            "votes": 89130,
-            "absentee_votes": 40660,
-            "reporting": 52,
+            "votes": 92143,
+            "absentee_votes": 41196,
+            "reporting": 54,
             "precincts": 57,
             "absentee_method": null,
             "eevp": null,
@@ -19132,14 +19132,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 69016,
-              "miyaresj": 20114
+              "herringm": 71341,
+              "miyaresj": 20802
             },
             "results_absentee": {
-              "herringm": 34108,
-              "miyaresj": 6552
+              "herringm": 34588,
+              "miyaresj": 6608
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51015",
@@ -19579,9 +19579,9 @@
           {
             "fips": "51540",
             "name": "Charlottesville",
-            "votes": 10381,
-            "absentee_votes": 0,
-            "reporting": 9,
+            "votes": 12432,
+            "absentee_votes": 2051,
+            "reporting": 10,
             "precincts": 12,
             "absentee_method": null,
             "eevp": null,
@@ -19596,21 +19596,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 8391,
-              "miyaresj": 1990
+              "herringm": 10263,
+              "miyaresj": 2169
             },
             "results_absentee": {
-              "herringm": 0,
-              "miyaresj": 0
+              "herringm": 1872,
+              "miyaresj": 179
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51550",
             "name": "Chesapeake",
-            "votes": 39147,
+            "votes": 42510,
             "absentee_votes": 0,
-            "reporting": 49,
+            "reporting": 53,
             "precincts": 66,
             "absentee_method": null,
             "eevp": null,
@@ -19625,14 +19625,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 22748,
-              "herringm": 16399
+              "miyaresj": 24188,
+              "herringm": 18322
             },
             "results_absentee": {
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51041",
@@ -20536,9 +20536,9 @@
           {
             "fips": "51085",
             "name": "Hanover",
-            "votes": 41226,
-            "absentee_votes": 4331,
-            "reporting": 37,
+            "votes": 57531,
+            "absentee_votes": 20636,
+            "reporting": 38,
             "precincts": 39,
             "absentee_method": null,
             "eevp": null,
@@ -20553,14 +20553,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 28154,
-              "herringm": 13072
+              "miyaresj": 39394,
+              "herringm": 18137
             },
             "results_absentee": {
-              "miyaresj": 1665,
-              "herringm": 2666
+              "miyaresj": 12905,
+              "herringm": 7731
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51660",
@@ -21812,9 +21812,9 @@
           {
             "fips": "51153",
             "name": "Prince William",
-            "votes": 88670,
+            "votes": 90612,
             "absentee_votes": 0,
-            "reporting": 85,
+            "reporting": 87,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -21829,14 +21829,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 47407,
-              "miyaresj": 41263
+              "herringm": 48328,
+              "miyaresj": 42284
             },
             "results_absentee": {
               "herringm": 0,
               "miyaresj": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51155",
@@ -21957,9 +21957,9 @@
           {
             "fips": "51760",
             "name": "Richmond City",
-            "votes": 44524,
+            "votes": 47441,
             "absentee_votes": 0,
-            "reporting": 56,
+            "reporting": 60,
             "precincts": 72,
             "absentee_method": null,
             "eevp": null,
@@ -21974,21 +21974,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 34002,
-              "miyaresj": 10522
+              "herringm": 36510,
+              "miyaresj": 10931
             },
             "results_absentee": {
               "herringm": 0,
               "miyaresj": 0
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51161",
             "name": "Roanoke",
-            "votes": 39483,
+            "votes": 42408,
             "absentee_votes": 14987,
-            "reporting": 32,
+            "reporting": 35,
             "precincts": 36,
             "absentee_method": null,
             "eevp": null,
@@ -22003,21 +22003,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 25990,
-              "herringm": 13493
+              "miyaresj": 27887,
+              "herringm": 14521
             },
             "results_absentee": {
               "miyaresj": 8365,
               "herringm": 6622
             },
-            "last_updated": "2021-11-03T01:54:17.073Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 17717,
-            "absentee_votes": 0,
-            "reporting": 20,
+            "votes": 20707,
+            "absentee_votes": 2990,
+            "reporting": 21,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -22032,14 +22032,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 9162,
-              "miyaresj": 8555
+              "herringm": 11557,
+              "miyaresj": 9150
             },
             "results_absentee": {
-              "herringm": 0,
-              "miyaresj": 0
+              "herringm": 2395,
+              "miyaresj": 595
             },
-            "last_updated": "2021-11-03T00:34:12.177Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51163",
@@ -22305,9 +22305,9 @@
           {
             "fips": "51179",
             "name": "Stafford",
-            "votes": 39893,
-            "absentee_votes": 0,
-            "reporting": 27,
+            "votes": 52589,
+            "absentee_votes": 12696,
+            "reporting": 28,
             "precincts": 30,
             "absentee_method": null,
             "eevp": null,
@@ -22322,14 +22322,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 23706,
-              "herringm": 16187
+              "miyaresj": 29998,
+              "herringm": 22591
             },
             "results_absentee": {
-              "miyaresj": 0,
-              "herringm": 0
+              "miyaresj": 6292,
+              "herringm": 6404
             },
-            "last_updated": "2021-11-03T00:13:54.950Z"
+            "last_updated": "2021-11-03T02:04:23.423Z"
           },
           {
             "fips": "51790",
@@ -23572,8 +23572,8 @@
     ]
   },
   "meta": {
-    "version": 785,
+    "version": 791,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T02:03:52.525Z"
+    "timestamp": "2021-11-03T02:04:52.548Z"
   }
 }
