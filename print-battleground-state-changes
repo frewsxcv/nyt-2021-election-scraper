@@ -431,8 +431,6 @@ for rows in records.values():
     latest_candidate_votes = {c['candidate_key']: c['votes'] for c in rows[-1].candidates}
     latest_expected_votes = rows[-1].expected_votes
 
-    import pdb
-    pdb.set_trace()
     for row in rows:
         iteration_info, summary = json_to_summary(
             state_name,
