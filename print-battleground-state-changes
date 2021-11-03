@@ -347,7 +347,6 @@ def json_to_summary(
     # If we're trying to estimate the proportion of third-party votes across
     # the entire vote population, we want to use the largest sample size we
     # have - i.e. the newest data we've received
-    print(latest_candidate_votes)
     latest_relevant_proportion = (latest_candidate_votes[candidate1_key] + latest_candidate_votes[candidate2_key]) / sum(latest_candidate_votes.values())
     votes_remaining_relevant = votes_remaining * latest_relevant_proportion
     hurdle = (vote_diff + votes_remaining_relevant) / (2 * votes_remaining_relevant) if votes_remaining_relevant > 0 else 0
