@@ -27,8 +27,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3104466,
-        "absentee_votes": 787292,
+        "votes": 3108620,
+        "absentee_votes": 789551,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -40,7 +40,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2653,
+        "precincts_reporting": 2658,
         "precincts_total": 2855,
         "reporting_display": "93% reporting",
         "reporting_value": "93%",
@@ -52,7 +52,7 @@
         "county_data_source": "ap",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:42:26.823Z",
         "candidates": [
           {
             "candidate_id": "youngkin-69739",
@@ -65,11 +65,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1585241,
+            "votes": 1587223,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
-            "absentee_votes": 297506,
+            "absentee_votes": 298439,
             "absentee_percent": 37.8,
             "img_url": null,
             "has_image": false,
@@ -86,11 +86,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1497431,
+            "votes": 1499552,
             "percent": 48.2,
             "percent_display": "48.2",
             "electoral_votes": 0,
-            "absentee_votes": 485189,
+            "absentee_votes": 486491,
             "absentee_percent": 61.6,
             "img_url": null,
             "has_image": false,
@@ -107,11 +107,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 21794,
+            "votes": 21845,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 4597,
+            "absentee_votes": 4621,
             "absentee_percent": 0.6,
             "img_url": null,
             "has_image": false,
@@ -119,8 +119,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 2.82851,
-        "leader_margin_votes": 87810,
+        "leader_margin_value": 2.82025,
+        "leader_margin_votes": 87671,
         "leader_margin_display": "R+3",
         "leader_margin_name_display": "Youngkin +3",
         "leader_party_id": "republican",
@@ -159,7 +159,9 @@
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Youngkin +22",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 16962,
+            "margin2020_pres": 9.4
           },
           {
             "fips": "51003",
@@ -195,7 +197,9 @@
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "McAuliffe +24",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 64657,
+            "margin2020_pres": -33.5
           },
           {
             "fips": "51510",
@@ -231,7 +235,9 @@
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "McAuliffe +48",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 82508,
+            "margin2020_pres": -62.7
           },
           {
             "fips": "51005",
@@ -267,7 +273,9 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 8203,
+            "margin2020_pres": 44.1
           },
           {
             "fips": "51007",
@@ -303,7 +311,9 @@
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7893,
+            "margin2020_pres": 37.7
           },
           {
             "fips": "51009",
@@ -339,7 +349,9 @@
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Youngkin +43",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 17005,
+            "margin2020_pres": 31.6
           },
           {
             "fips": "51011",
@@ -375,7 +387,9 @@
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9268,
+            "margin2020_pres": 46.2
           },
           {
             "fips": "51013",
@@ -411,7 +425,9 @@
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "McAuliffe +54",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 130699,
+            "margin2020_pres": -63.5
           },
           {
             "fips": "51015",
@@ -447,7 +463,9 @@
             "leader_margin_display": "R+60",
             "leader_margin_name_display": "Youngkin +60",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 42278,
+            "margin2020_pres": 47
           },
           {
             "fips": "51017",
@@ -483,14 +501,16 @@
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Youngkin +59",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 2501,
+            "margin2020_pres": 47.5
           },
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 27921,
-            "absentee_votes": 0,
-            "reporting": 32,
+            "votes": 30180,
+            "absentee_votes": 2259,
+            "reporting": 33,
             "precincts": 35,
             "absentee_method": null,
             "eevp": null,
@@ -505,21 +525,23 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 23425,
-              "mcauliffet": 4396,
-              "blandingp": 100
+              "youngking": 24358,
+              "mcauliffet": 5698,
+              "blandingp": 124
             },
             "results_absentee": {
-              "youngking": 0,
-              "mcauliffet": 0,
-              "blandingp": 0
+              "youngking": 933,
+              "mcauliffet": 1302,
+              "blandingp": 24
             },
-            "last_updated": "2021-11-03T01:03:39.063Z",
-            "leader_margin_value": 68.153,
-            "leader_margin_display": "R+68",
-            "leader_margin_name_display": "Youngkin +68",
+            "last_updated": "2021-11-03T03:35:23.557Z",
+            "leader_margin_value": 61.82903,
+            "leader_margin_display": "R+62",
+            "leader_margin_name_display": "Youngkin +62",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 48669,
+            "margin2020_pres": 48.1
           },
           {
             "fips": "51021",
@@ -555,7 +577,9 @@
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Youngkin +72",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 3479,
+            "margin2020_pres": 68.2
           },
           {
             "fips": "51023",
@@ -591,7 +615,9 @@
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Youngkin +53",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 21120,
+            "margin2020_pres": 44.5
           },
           {
             "fips": "51520",
@@ -627,7 +653,9 @@
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Youngkin +47",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7806,
+            "margin2020_pres": 38.9
           },
           {
             "fips": "51025",
@@ -663,7 +691,9 @@
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "McAuliffe +5",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 7948,
+            "margin2020_pres": -15
           },
           {
             "fips": "51027",
@@ -699,7 +729,9 @@
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Youngkin +70",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9953,
+            "margin2020_pres": 67.6
           },
           {
             "fips": "51029",
@@ -735,7 +767,9 @@
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Youngkin +27",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 8126,
+            "margin2020_pres": 13.2
           },
           {
             "fips": "51530",
@@ -771,14 +805,16 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 2776,
+            "margin2020_pres": 37.4
           },
           {
             "fips": "51031",
             "name": "Campbell",
-            "votes": 17070,
+            "votes": 18036,
             "absentee_votes": 0,
-            "reporting": 16,
+            "reporting": 19,
             "precincts": 19,
             "absentee_method": null,
             "eevp": null,
@@ -793,21 +829,23 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 14153,
-              "mcauliffet": 2864,
-              "blandingp": 53
+              "youngking": 14510,
+              "mcauliffet": 3449,
+              "blandingp": 77
             },
             "results_absentee": {
               "youngking": 0,
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:45:10.043Z",
-            "leader_margin_value": 66.13357,
-            "leader_margin_display": "R+66",
-            "leader_margin_name_display": "Youngkin +66",
+            "last_updated": "2021-11-03T03:42:26.823Z",
+            "leader_margin_value": 61.32735,
+            "leader_margin_display": "R+61",
+            "leader_margin_name_display": "Youngkin +61",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 29892,
+            "margin2020_pres": 44.1
           },
           {
             "fips": "51033",
@@ -843,7 +881,9 @@
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Youngkin +15",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 16288,
+            "margin2020_pres": 4.2
           },
           {
             "fips": "51035",
@@ -879,7 +919,9 @@
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Youngkin +67",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 15651,
+            "margin2020_pres": 62.7
           },
           {
             "fips": "51036",
@@ -915,7 +957,9 @@
             "leader_margin_display": "D+2",
             "leader_margin_name_display": "McAuliffe +2",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 4441,
+            "margin2020_pres": -19.4
           },
           {
             "fips": "51037",
@@ -951,7 +995,9 @@
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6191,
+            "margin2020_pres": 24.2
           },
           {
             "fips": "51540",
@@ -987,7 +1033,9 @@
             "leader_margin_display": "D+67",
             "leader_margin_name_display": "McAuliffe +67",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 24205,
+            "margin2020_pres": -72.7
           },
           {
             "fips": "51550",
@@ -1023,7 +1071,9 @@
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Youngkin +6",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 127108,
+            "margin2020_pres": -6.4
           },
           {
             "fips": "51041",
@@ -1059,7 +1109,9 @@
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Youngkin +12",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 203884,
+            "margin2020_pres": -6.7
           },
           {
             "fips": "51043",
@@ -1095,7 +1147,9 @@
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Youngkin +26",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9337,
+            "margin2020_pres": 13.6
           },
           {
             "fips": "51570",
@@ -1131,7 +1185,9 @@
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Youngkin +48",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9146,
+            "margin2020_pres": 33.2
           },
           {
             "fips": "51580",
@@ -1167,7 +1223,9 @@
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Youngkin +31",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 2603,
+            "margin2020_pres": 23.7
           },
           {
             "fips": "51045",
@@ -1203,7 +1261,9 @@
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 3169,
+            "margin2020_pres": 61.5
           },
           {
             "fips": "51047",
@@ -1239,7 +1299,9 @@
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Youngkin +34",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 27116,
+            "margin2020_pres": 19.9
           },
           {
             "fips": "51049",
@@ -1275,7 +1337,9 @@
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Youngkin +28",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 5310,
+            "margin2020_pres": 14.9
           },
           {
             "fips": "51590",
@@ -1311,7 +1375,9 @@
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "McAuliffe +7",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 19389,
+            "margin2020_pres": -22.1
           },
           {
             "fips": "51051",
@@ -1347,7 +1413,9 @@
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7303,
+            "margin2020_pres": 58.1
           },
           {
             "fips": "51053",
@@ -1383,7 +1451,9 @@
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Youngkin +27",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 15092,
+            "margin2020_pres": 16.4
           },
           {
             "fips": "51595",
@@ -1419,7 +1489,9 @@
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "McAuliffe +20",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 2381,
+            "margin2020_pres": -36
           },
           {
             "fips": "51057",
@@ -1455,7 +1527,9 @@
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Youngkin +15",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6178,
+            "margin2020_pres": 0.6
           },
           {
             "fips": "51059",
@@ -1491,7 +1565,9 @@
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "McAuliffe +29",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 600823,
+            "margin2020_pres": -41.9
           },
           {
             "fips": "51600",
@@ -1527,7 +1603,9 @@
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "McAuliffe +28",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 13483,
+            "margin2020_pres": -38.3
           },
           {
             "fips": "51610",
@@ -1563,14 +1641,16 @@
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "McAuliffe +54",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 8819,
+            "margin2020_pres": -64.1
           },
           {
             "fips": "51061",
             "name": "Fauquier",
-            "votes": 32925,
+            "votes": 33854,
             "absentee_votes": 12895,
-            "reporting": 21,
+            "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -1585,21 +1665,23 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 21513,
-              "mcauliffet": 11265,
-              "blandingp": 147
+              "youngking": 22205,
+              "mcauliffet": 11499,
+              "blandingp": 150
             },
             "results_absentee": {
               "youngking": 7159,
               "mcauliffet": 5685,
               "blandingp": 51
             },
-            "last_updated": "2021-11-03T03:15:12.450Z",
-            "leader_margin_value": 31.12528,
-            "leader_margin_display": "R+31",
-            "leader_margin_name_display": "Youngkin +31",
+            "last_updated": "2021-11-03T03:34:22.870Z",
+            "leader_margin_value": 31.62403,
+            "leader_margin_display": "R+32",
+            "leader_margin_name_display": "Youngkin +32",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 43661,
+            "margin2020_pres": 17.3
           },
           {
             "fips": "51063",
@@ -1635,7 +1717,9 @@
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9408,
+            "margin2020_pres": 34.2
           },
           {
             "fips": "51065",
@@ -1671,7 +1755,9 @@
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Youngkin +14",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 15840,
+            "margin2020_pres": 4.7
           },
           {
             "fips": "51067",
@@ -1707,7 +1793,9 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 29702,
+            "margin2020_pres": 42.1
           },
           {
             "fips": "51620",
@@ -1743,7 +1831,9 @@
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "McAuliffe +14",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 4058,
+            "margin2020_pres": -25.6
           },
           {
             "fips": "51069",
@@ -1779,7 +1869,9 @@
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Youngkin +39",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 48703,
+            "margin2020_pres": 27.4
           },
           {
             "fips": "51630",
@@ -1815,7 +1907,9 @@
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 12862,
+            "margin2020_pres": -34.8
           },
           {
             "fips": "51640",
@@ -1851,7 +1945,9 @@
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 2638,
+            "margin2020_pres": 40.2
           },
           {
             "fips": "51071",
@@ -1887,7 +1983,9 @@
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9176,
+            "margin2020_pres": 51.4
           },
           {
             "fips": "51073",
@@ -1923,7 +2021,9 @@
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Youngkin +45",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 22282,
+            "margin2020_pres": 35.5
           },
           {
             "fips": "51075",
@@ -1959,7 +2059,9 @@
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 16950,
+            "margin2020_pres": 19.4
           },
           {
             "fips": "51077",
@@ -1995,7 +2097,9 @@
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 8131,
+            "margin2020_pres": 61.4
           },
           {
             "fips": "51079",
@@ -2031,7 +2135,9 @@
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Youngkin +36",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 11311,
+            "margin2020_pres": 23.9
           },
           {
             "fips": "51081",
@@ -2067,7 +2173,9 @@
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "McAuliffe +6",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 4574,
+            "margin2020_pres": -15.6
           },
           {
             "fips": "51083",
@@ -2103,7 +2211,9 @@
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 18248,
+            "margin2020_pres": 15.1
           },
           {
             "fips": "51650",
@@ -2139,7 +2249,9 @@
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "McAuliffe +34",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 65901,
+            "margin2020_pres": -42.2
           },
           {
             "fips": "51085",
@@ -2175,7 +2287,9 @@
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Youngkin +37",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 70967,
+            "margin2020_pres": 26.8
           },
           {
             "fips": "51660",
@@ -2211,7 +2325,9 @@
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 17086,
+            "margin2020_pres": -31.8
           },
           {
             "fips": "51087",
@@ -2247,7 +2363,9 @@
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "McAuliffe +18",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 183152,
+            "margin2020_pres": -29
           },
           {
             "fips": "51089",
@@ -2283,7 +2401,9 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 26105,
+            "margin2020_pres": 29.1
           },
           {
             "fips": "51091",
@@ -2319,7 +2439,9 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 1533,
+            "margin2020_pres": 44
           },
           {
             "fips": "51670",
@@ -2355,7 +2477,9 @@
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
             "leader_party_id": "",
-            "leader_key": ""
+            "leader_key": "",
+            "votes2020_pres": 9608,
+            "margin2020_pres": -14.7
           },
           {
             "fips": "51093",
@@ -2391,7 +2515,9 @@
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 23456,
+            "margin2020_pres": 18.4
           },
           {
             "fips": "51095",
@@ -2427,7 +2553,9 @@
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Youngkin +22",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 49622,
+            "margin2020_pres": -4.8
           },
           {
             "fips": "51099",
@@ -2463,7 +2591,9 @@
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Youngkin +37",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 14224,
+            "margin2020_pres": 21.4
           },
           {
             "fips": "51101",
@@ -2499,7 +2629,9 @@
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Youngkin +47",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 10736,
+            "margin2020_pres": 37.8
           },
           {
             "fips": "51097",
@@ -2535,7 +2667,9 @@
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 4115,
+            "margin2020_pres": 20.9
           },
           {
             "fips": "51103",
@@ -2571,7 +2705,9 @@
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Youngkin +18",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7152,
+            "margin2020_pres": 4.6
           },
           {
             "fips": "51105",
@@ -2607,7 +2743,9 @@
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Youngkin +76",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9946,
+            "margin2020_pres": 69.1
           },
           {
             "fips": "51678",
@@ -2643,7 +2781,9 @@
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "McAuliffe +24",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 2762,
+            "margin2020_pres": -32
           },
           {
             "fips": "51107",
@@ -2679,7 +2819,9 @@
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "McAuliffe +11",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 224862,
+            "margin2020_pres": -25
           },
           {
             "fips": "51109",
@@ -2715,7 +2857,9 @@
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 21915,
+            "margin2020_pres": 22.9
           },
           {
             "fips": "51111",
@@ -2751,7 +2895,9 @@
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6000,
+            "margin2020_pres": 18.7
           },
           {
             "fips": "51680",
@@ -2787,7 +2933,9 @@
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Youngkin +11",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 36363,
+            "margin2020_pres": -2.6
           },
           {
             "fips": "51113",
@@ -2823,7 +2971,9 @@
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 8129,
+            "margin2020_pres": 32
           },
           {
             "fips": "51683",
@@ -2859,7 +3009,9 @@
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "McAuliffe +10",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 16968,
+            "margin2020_pres": -24.2
           },
           {
             "fips": "51685",
@@ -2895,7 +3047,9 @@
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "McAuliffe +22",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 6087,
+            "margin2020_pres": -33.1
           },
           {
             "fips": "51690",
@@ -2931,7 +3085,9 @@
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "McAuliffe +14",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 6013,
+            "margin2020_pres": -26.6
           },
           {
             "fips": "51115",
@@ -2967,7 +3123,9 @@
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Youngkin +44",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 5826,
+            "margin2020_pres": 35.6
           },
           {
             "fips": "51117",
@@ -3003,7 +3161,9 @@
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 16204,
+            "margin2020_pres": 15.2
           },
           {
             "fips": "51119",
@@ -3039,7 +3199,9 @@
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6785,
+            "margin2020_pres": 25.1
           },
           {
             "fips": "51121",
@@ -3075,7 +3237,9 @@
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Youngkin +6",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 45037,
+            "margin2020_pres": -5.7
           },
           {
             "fips": "51125",
@@ -3111,7 +3275,9 @@
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Youngkin +12",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9316,
+            "margin2020_pres": 5.2
           },
           {
             "fips": "51127",
@@ -3147,7 +3313,9 @@
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Youngkin +48",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 14463,
+            "margin2020_pres": 34.6
           },
           {
             "fips": "51700",
@@ -3183,7 +3351,9 @@
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 81203,
+            "margin2020_pres": -32.9
           },
           {
             "fips": "51710",
@@ -3219,7 +3389,9 @@
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "McAuliffe +32",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 89881,
+            "margin2020_pres": -45.6
           },
           {
             "fips": "51131",
@@ -3255,7 +3427,9 @@
             "leader_margin_display": "R+2.0",
             "leader_margin_name_display": "Youngkin +2.0",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6732,
+            "margin2020_pres": -10.6
           },
           {
             "fips": "51133",
@@ -3291,7 +3465,9 @@
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7815,
+            "margin2020_pres": 15.8
           },
           {
             "fips": "51720",
@@ -3327,7 +3503,9 @@
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Youngkin +45",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 1601,
+            "margin2020_pres": 40.3
           },
           {
             "fips": "51135",
@@ -3363,7 +3541,9 @@
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7078,
+            "margin2020_pres": 14.9
           },
           {
             "fips": "51137",
@@ -3399,7 +3579,9 @@
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 20742,
+            "margin2020_pres": 21.4
           },
           {
             "fips": "51139",
@@ -3435,7 +3617,9 @@
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Youngkin +58",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 12514,
+            "margin2020_pres": 50.6
           },
           {
             "fips": "51141",
@@ -3471,7 +3655,9 @@
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Youngkin +65",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9534,
+            "margin2020_pres": 58
           },
           {
             "fips": "51730",
@@ -3507,7 +3693,9 @@
             "leader_margin_display": "D+71",
             "leader_margin_name_display": "McAuliffe +71",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 14118,
+            "margin2020_pres": -76.5
           },
           {
             "fips": "51143",
@@ -3543,7 +3731,9 @@
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Youngkin +51",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 34227,
+            "margin2020_pres": 39.8
           },
           {
             "fips": "51735",
@@ -3579,7 +3769,9 @@
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Youngkin +56",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 7857,
+            "margin2020_pres": 45.2
           },
           {
             "fips": "51740",
@@ -3615,7 +3807,9 @@
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "McAuliffe +32",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 44582,
+            "margin2020_pres": -40.8
           },
           {
             "fips": "51145",
@@ -3651,7 +3845,9 @@
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Youngkin +54",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 19730,
+            "margin2020_pres": 44.3
           },
           {
             "fips": "51147",
@@ -3687,7 +3883,9 @@
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Youngkin +10",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9574,
+            "margin2020_pres": -5.6
           },
           {
             "fips": "51149",
@@ -3723,7 +3921,9 @@
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 17432,
+            "margin2020_pres": 17.2
           },
           {
             "fips": "51153",
@@ -3759,7 +3959,9 @@
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "McAuliffe +17",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 228056,
+            "margin2020_pres": -27
           },
           {
             "fips": "51155",
@@ -3795,7 +3997,9 @@
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 17376,
+            "margin2020_pres": 41.4
           },
           {
             "fips": "51750",
@@ -3831,7 +4035,9 @@
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Youngkin +9",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 6320,
+            "margin2020_pres": -9.1
           },
           {
             "fips": "51157",
@@ -3867,7 +4073,9 @@
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Youngkin +20",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 4978,
+            "margin2020_pres": 14.4
           },
           {
             "fips": "51159",
@@ -3903,7 +4111,9 @@
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 4102,
+            "margin2020_pres": 25.2
           },
           {
             "fips": "51760",
@@ -3939,7 +4149,9 @@
             "leader_margin_display": "D+57",
             "leader_margin_name_display": "McAuliffe +57",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 111159,
+            "margin2020_pres": -68
           },
           {
             "fips": "51161",
@@ -3975,7 +4187,9 @@
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 57184,
+            "margin2020_pres": 21.8
           },
           {
             "fips": "51770",
@@ -4011,7 +4225,9 @@
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "McAuliffe +16",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 43323,
+            "margin2020_pres": -25.8
           },
           {
             "fips": "51163",
@@ -4047,7 +4263,9 @@
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Youngkin +38",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 12373,
+            "margin2020_pres": 32.3
           },
           {
             "fips": "51165",
@@ -4083,7 +4301,9 @@
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 43811,
+            "margin2020_pres": 40.4
           },
           {
             "fips": "51167",
@@ -4119,7 +4339,9 @@
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Youngkin +70",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 13386,
+            "margin2020_pres": 63.5
           },
           {
             "fips": "51775",
@@ -4155,7 +4377,9 @@
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 13051,
+            "margin2020_pres": 19.4
           },
           {
             "fips": "51169",
@@ -4191,7 +4415,9 @@
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Youngkin +74",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 10869,
+            "margin2020_pres": 67.8
           },
           {
             "fips": "51171",
@@ -4227,7 +4453,9 @@
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 23684,
+            "margin2020_pres": 40.6
           },
           {
             "fips": "51173",
@@ -4263,7 +4491,9 @@
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 14136,
+            "margin2020_pres": 56.3
           },
           {
             "fips": "51175",
@@ -4299,7 +4529,9 @@
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9786,
+            "margin2020_pres": 18
           },
           {
             "fips": "51177",
@@ -4335,7 +4567,9 @@
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Youngkin +21",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 75317,
+            "margin2020_pres": 6.8
           },
           {
             "fips": "51179",
@@ -4371,7 +4605,9 @@
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Youngkin +11",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 79625,
+            "margin2020_pres": -3.3
           },
           {
             "fips": "51790",
@@ -4407,7 +4643,9 @@
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "McAuliffe +3",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 12990,
+            "margin2020_pres": -9.9
           },
           {
             "fips": "51800",
@@ -4443,7 +4681,9 @@
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Youngkin +7",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 49642,
+            "margin2020_pres": -17.3
           },
           {
             "fips": "51181",
@@ -4479,7 +4719,9 @@
             "leader_margin_display": "R+0.79",
             "leader_margin_name_display": "Youngkin +0.79",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 4471,
+            "margin2020_pres": -8.3
           },
           {
             "fips": "51183",
@@ -4515,7 +4757,9 @@
             "leader_margin_display": "D+1.3",
             "leader_margin_name_display": "McAuliffe +1.3",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 5088,
+            "margin2020_pres": -11.9
           },
           {
             "fips": "51185",
@@ -4551,7 +4795,9 @@
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Youngkin +74",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 20134,
+            "margin2020_pres": 67.2
           },
           {
             "fips": "51810",
@@ -4587,7 +4833,9 @@
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Youngkin +8",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 227561,
+            "margin2020_pres": -5.4
           },
           {
             "fips": "51187",
@@ -4623,7 +4871,9 @@
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Youngkin +44",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 21147,
+            "margin2020_pres": 35.3
           },
           {
             "fips": "51191",
@@ -4659,7 +4909,9 @@
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Youngkin +59",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 28685,
+            "margin2020_pres": 52.5
           },
           {
             "fips": "51820",
@@ -4695,7 +4947,9 @@
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Youngkin +16",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 10717,
+            "margin2020_pres": 5.1
           },
           {
             "fips": "51193",
@@ -4731,7 +4985,9 @@
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Youngkin +22",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 9933,
+            "margin2020_pres": 8.2
           },
           {
             "fips": "51830",
@@ -4767,7 +5023,9 @@
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "McAuliffe +30",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 6883,
+            "margin2020_pres": -41.1
           },
           {
             "fips": "51840",
@@ -4803,7 +5061,9 @@
             "leader_margin_display": "D+1.5",
             "leader_margin_name_display": "McAuliffe +1.5",
             "leader_party_id": "democrat",
-            "leader_key": "mcauliffet"
+            "leader_key": "mcauliffet",
+            "votes2020_pres": 12106,
+            "margin2020_pres": -11.5
           },
           {
             "fips": "51195",
@@ -4839,7 +5099,9 @@
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Youngkin +68",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 16615,
+            "margin2020_pres": 61.7
           },
           {
             "fips": "51197",
@@ -4875,7 +5137,9 @@
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Youngkin +64",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 15072,
+            "margin2020_pres": 57
           },
           {
             "fips": "51199",
@@ -4911,7 +5175,9 @@
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Youngkin +18",
             "leader_party_id": "republican",
-            "leader_key": "youngking"
+            "leader_key": "youngking",
+            "votes2020_pres": 38787,
+            "margin2020_pres": 6.6
           }
         ],
         "edison_certified": false,
@@ -4960,8 +5226,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3088256,
-        "absentee_votes": 757119,
+        "votes": 3097521,
+        "absentee_votes": 759363,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -4973,7 +5239,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2682,
+        "precincts_reporting": 2687,
         "precincts_total": 2855,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -4985,7 +5251,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T03:25:17.820Z",
+        "last_updated": "2021-11-03T03:42:26.823Z",
         "candidates": [
           {
             "candidate_id": "sears-65856",
@@ -4998,11 +5264,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1578973,
-            "percent": 51.1,
-            "percent_display": "51.1",
+            "votes": 1584599,
+            "percent": 51.2,
+            "percent_display": "51.2",
             "electoral_votes": 0,
-            "absentee_votes": 289988,
+            "absentee_votes": 290914,
             "absentee_percent": 38.3,
             "img_url": null,
             "has_image": false,
@@ -5019,11 +5285,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1509283,
-            "percent": 48.9,
-            "percent_display": "48.9",
+            "votes": 1512922,
+            "percent": 48.8,
+            "percent_display": "48.8",
             "electoral_votes": 0,
-            "absentee_votes": 467131,
+            "absentee_votes": 468449,
             "absentee_percent": 61.7,
             "img_url": null,
             "has_image": false,
@@ -5325,9 +5591,9 @@
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 27776,
-            "absentee_votes": 0,
-            "reporting": 32,
+            "votes": 30020,
+            "absentee_votes": 2244,
+            "reporting": 33,
             "precincts": 35,
             "absentee_method": null,
             "eevp": null,
@@ -5342,14 +5608,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 23180,
-              "ayalah": 4596
+              "searsw": 24106,
+              "ayalah": 5914
             },
             "results_absentee": {
-              "searsw": 0,
-              "ayalah": 0
+              "searsw": 926,
+              "ayalah": 1318
             },
-            "last_updated": "2021-11-03T01:03:39.063Z"
+            "last_updated": "2021-11-03T03:35:23.557Z"
           },
           {
             "fips": "51021",
@@ -5557,9 +5823,9 @@
           {
             "fips": "51031",
             "name": "Campbell",
-            "votes": 17003,
+            "votes": 23097,
             "absentee_votes": 0,
-            "reporting": 16,
+            "reporting": 19,
             "precincts": 19,
             "absentee_method": null,
             "eevp": null,
@@ -5574,14 +5840,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 14040,
-              "ayalah": 2963
+              "searsw": 18051,
+              "ayalah": 5046
             },
             "results_absentee": {
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T01:45:10.043Z"
+            "last_updated": "2021-11-03T03:42:26.823Z"
           },
           {
             "fips": "51033",
@@ -6195,9 +6461,9 @@
           {
             "fips": "51061",
             "name": "Fauquier",
-            "votes": 32815,
+            "votes": 33742,
             "absentee_votes": 12854,
-            "reporting": 21,
+            "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -6212,14 +6478,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 21399,
-              "ayalah": 11416
+              "searsw": 22088,
+              "ayalah": 11654
             },
             "results_absentee": {
               "searsw": 7157,
               "ayalah": 5697
             },
-            "last_updated": "2021-11-03T03:15:12.450Z"
+            "last_updated": "2021-11-03T03:34:22.870Z"
           },
           {
             "fips": "51063",
@@ -10473,7 +10739,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 37938,
+        "votes": 38865,
         "absentee_votes": 10870,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -10486,10 +10752,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 33,
+        "precincts_reporting": 34,
         "precincts_total": 39,
-        "reporting_display": "85% reporting",
-        "reporting_value": "85%",
+        "reporting_display": "87% reporting",
+        "reporting_value": "87%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10499,7 +10765,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "webert-49377",
@@ -10512,9 +10778,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 24973,
-            "percent": 65.8,
-            "percent_display": "65.8",
+            "votes": 25674,
+            "percent": 66.1,
+            "percent_display": "66.1",
             "electoral_votes": 0,
             "absentee_votes": 5576,
             "absentee_percent": 51.3,
@@ -10533,9 +10799,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12965,
-            "percent": 34.2,
-            "percent_display": "34.2",
+            "votes": 13191,
+            "percent": 33.9,
+            "percent_display": "33.9",
             "electoral_votes": 0,
             "absentee_votes": 5294,
             "absentee_percent": 48.7,
@@ -10572,8 +10838,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 31337,
-        "absentee_votes": 6000,
+        "votes": 31945,
+        "absentee_votes": 6608,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10585,10 +10851,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 42,
+        "precincts_reporting": 44,
         "precincts_total": 50,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10598,7 +10864,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:44:09.337Z",
+        "last_updated": "2021-11-03T03:35:23.557Z",
         "candidates": [
           {
             "candidate_id": "austin-49378",
@@ -10611,12 +10877,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 24945,
-            "percent": 79.6,
-            "percent_display": "79.6",
+            "votes": 25154,
+            "percent": 78.7,
+            "percent_display": "78.7",
             "electoral_votes": 0,
-            "absentee_votes": 4045,
-            "absentee_percent": 67.4,
+            "absentee_votes": 4254,
+            "absentee_percent": 64.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10632,12 +10898,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5790,
-            "percent": 18.5,
-            "percent_display": "18.5",
+            "votes": 6175,
+            "percent": 19.3,
+            "percent_display": "19.3",
             "electoral_votes": 0,
-            "absentee_votes": 1869,
-            "absentee_percent": 31.1,
+            "absentee_votes": 2254,
+            "absentee_percent": 34.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10653,12 +10919,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 602,
+            "votes": 616,
             "percent": 1.9,
             "percent_display": "1.9",
             "electoral_votes": 0,
-            "absentee_votes": 86,
-            "absentee_percent": 1.4,
+            "absentee_votes": 100,
+            "absentee_percent": 1.5,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10890,8 +11156,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 26670,
-        "absentee_votes": 2994,
+        "votes": 29331,
+        "absentee_votes": 3972,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10903,10 +11169,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 33,
+        "precincts_reporting": 37,
         "precincts_total": 41,
-        "reporting_display": "80% reporting",
-        "reporting_value": "80%",
+        "reporting_display": "90% reporting",
+        "reporting_value": "90%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10916,7 +11182,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T02:14:30.530Z",
+        "last_updated": "2021-11-03T03:42:26.823Z",
         "candidates": [
           {
             "candidate_id": "byron-49380",
@@ -10929,12 +11195,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 19715,
-            "percent": 73.9,
-            "percent_display": "73.9",
+            "votes": 21300,
+            "percent": 72.6,
+            "percent_display": "72.6",
             "electoral_votes": 0,
-            "absentee_votes": 1148,
-            "absentee_percent": 38.3,
+            "absentee_votes": 1613,
+            "absentee_percent": 40.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10950,12 +11216,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6489,
-            "percent": 24.3,
-            "percent_display": "24.3",
+            "votes": 7525,
+            "percent": 25.7,
+            "percent_display": "25.7",
             "electoral_votes": 0,
-            "absentee_votes": 1777,
-            "absentee_percent": 59.4,
+            "absentee_votes": 2273,
+            "absentee_percent": 57.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10971,12 +11237,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 466,
+            "votes": 506,
             "percent": 1.7,
             "percent_display": "1.7",
             "electoral_votes": 0,
-            "absentee_votes": 69,
-            "absentee_percent": 2.3,
+            "absentee_votes": 86,
+            "absentee_percent": 2.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11010,8 +11276,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 30165,
-        "absentee_votes": 6993,
+        "votes": 30771,
+        "absentee_votes": 7639,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -11023,10 +11289,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 30,
+        "precincts_reporting": 32,
         "precincts_total": 36,
-        "reporting_display": "83% reporting",
-        "reporting_value": "83%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11036,7 +11302,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:14:11.757Z",
+        "last_updated": "2021-11-03T03:35:23.557Z",
         "candidates": [
           {
             "candidate_id": "walker-49630",
@@ -11049,12 +11315,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 20161,
-            "percent": 66.8,
-            "percent_display": "66.8",
+            "votes": 20412,
+            "percent": 66.3,
+            "percent_display": "66.3",
             "electoral_votes": 0,
-            "absentee_votes": 3036,
-            "absentee_percent": 43.4,
+            "absentee_votes": 3327,
+            "absentee_percent": 43.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11070,12 +11336,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10004,
-            "percent": 33.2,
-            "percent_display": "33.2",
+            "votes": 10359,
+            "percent": 33.7,
+            "percent_display": "33.7",
             "electoral_votes": 0,
-            "absentee_votes": 3957,
-            "absentee_percent": 56.6,
+            "absentee_votes": 4312,
+            "absentee_percent": 56.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -12219,7 +12485,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 28889,
+        "votes": 29405,
         "absentee_votes": 11982,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12232,10 +12498,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 18,
+        "precincts_reporting": 19,
         "precincts_total": 22,
-        "reporting_display": "82% reporting",
-        "reporting_value": "82%",
+        "reporting_display": "86% reporting",
+        "reporting_value": "86%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12245,7 +12511,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "keam-49393",
@@ -12258,9 +12524,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 19778,
-            "percent": 68.5,
-            "percent_display": "68.5",
+            "votes": 20101,
+            "percent": 68.4,
+            "percent_display": "68.4",
             "electoral_votes": 0,
             "absentee_votes": 9262,
             "absentee_percent": 77.3,
@@ -12279,9 +12545,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9111,
-            "percent": 31.5,
-            "percent_display": "31.5",
+            "votes": 9304,
+            "percent": 31.6,
+            "percent_display": "31.6",
             "electoral_votes": 0,
             "absentee_votes": 2720,
             "absentee_percent": 22.7,
@@ -12413,11 +12679,11 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25526,
+        "votes": 26676,
         "absentee_votes": 10569,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12430,10 +12696,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 19,
+        "precincts_reporting": 20,
         "precincts_total": 22,
-        "reporting_display": "86% reporting",
-        "reporting_value": "86%",
+        "reporting_display": "91% reporting",
+        "reporting_value": "91%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12443,7 +12709,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T02:33:44.520Z",
+        "last_updated": "2021-11-03T03:43:27.913Z",
         "candidates": [
           {
             "candidate_id": "bulova-49395",
@@ -12455,8 +12721,8 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
-            "votes": 16983,
+            "winner": true,
+            "votes": 17744,
             "percent": 66.5,
             "percent_display": "66.5",
             "electoral_votes": 0,
@@ -12477,7 +12743,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8543,
+            "votes": 8932,
             "percent": 33.5,
             "percent_display": "33.5",
             "electoral_votes": 0,
@@ -12615,7 +12881,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25865,
+        "votes": 26713,
         "absentee_votes": 7009,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12628,10 +12894,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 21,
+        "precincts_reporting": 22,
         "precincts_total": 24,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12641,7 +12907,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "watts-49397",
@@ -12654,9 +12920,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 17236,
-            "percent": 66.6,
-            "percent_display": "66.6",
+            "votes": 17817,
+            "percent": 66.7,
+            "percent_display": "66.7",
             "electoral_votes": 0,
             "absentee_votes": 5475,
             "absentee_percent": 78.1,
@@ -12675,9 +12941,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8629,
-            "percent": 33.4,
-            "percent_display": "33.4",
+            "votes": 8896,
+            "percent": 33.3,
+            "percent_display": "33.3",
             "electoral_votes": 0,
             "absentee_votes": 1534,
             "absentee_percent": 21.9,
@@ -12912,7 +13178,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22810,
+        "votes": 23880,
         "absentee_votes": 6777,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12925,10 +13191,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 14,
+        "precincts_reporting": 16,
         "precincts_total": 21,
-        "reporting_display": "67% reporting",
-        "reporting_value": "67%",
+        "reporting_display": "76% reporting",
+        "reporting_value": "76%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12938,7 +13204,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:08:07.990Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "tran-49320",
@@ -12951,7 +13217,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 13791,
+            "votes": 14437,
             "percent": 60.5,
             "percent_display": "60.5",
             "electoral_votes": 0,
@@ -12972,7 +13238,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9019,
+            "votes": 9443,
             "percent": 39.5,
             "percent_display": "39.5",
             "electoral_votes": 0,
@@ -13011,7 +13277,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 26249,
+        "votes": 27033,
         "absentee_votes": 8910,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13024,10 +13290,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 17,
+        "precincts_reporting": 18,
         "precincts_total": 21,
-        "reporting_display": "81% reporting",
-        "reporting_value": "81%",
+        "reporting_display": "86% reporting",
+        "reporting_value": "86%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13037,7 +13303,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:27:19.243Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "sickles-49401",
@@ -13050,9 +13316,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 18309,
-            "percent": 69.8,
-            "percent_display": "69.8",
+            "votes": 18842,
+            "percent": 69.7,
+            "percent_display": "69.7",
             "electoral_votes": 0,
             "absentee_votes": 7011,
             "absentee_percent": 78.7,
@@ -13071,9 +13337,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7940,
-            "percent": 30.2,
-            "percent_display": "30.2",
+            "votes": 8191,
+            "percent": 30.3,
+            "percent_display": "30.3",
             "electoral_votes": 0,
             "absentee_votes": 1899,
             "absentee_percent": 21.3,
@@ -13106,7 +13372,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -13136,7 +13402,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:15:12.450Z",
+        "last_updated": "2021-11-03T03:43:27.913Z",
         "candidates": [
           {
             "candidate_id": "krizek-49402",
@@ -13148,7 +13414,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 11624,
             "percent": 67.7,
             "percent_display": "67.7",
@@ -13997,11 +14263,11 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 27632,
+        "votes": 28277,
         "absentee_votes": 10954,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14014,10 +14280,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 21,
+        "precincts_reporting": 22,
         "precincts_total": 24,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14027,7 +14293,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:43:48.343Z",
         "candidates": [
           {
             "candidate_id": "simon-49410",
@@ -14039,10 +14305,10 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
-            "votes": 19823,
-            "percent": 71.7,
-            "percent_display": "71.7",
+            "winner": true,
+            "votes": 20229,
+            "percent": 71.5,
+            "percent_display": "71.5",
             "electoral_votes": 0,
             "absentee_votes": 8833,
             "absentee_percent": 80.6,
@@ -14061,9 +14327,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7809,
-            "percent": 28.3,
-            "percent_display": "28.3",
+            "votes": 8048,
+            "percent": 28.5,
+            "percent_display": "28.5",
             "electoral_votes": 0,
             "absentee_votes": 2121,
             "absentee_percent": 19.4,
@@ -14595,7 +14861,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 31699,
+        "votes": 35348,
         "absentee_votes": 6329,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14608,10 +14874,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 48,
+        "precincts_reporting": 51,
         "precincts_total": 55,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14621,7 +14887,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T01:47:11.427Z",
+        "last_updated": "2021-11-03T03:42:26.823Z",
         "candidates": [
           {
             "candidate_id": "fariss-49414",
@@ -14634,9 +14900,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 20681,
-            "percent": 65.2,
-            "percent_display": "65.2",
+            "votes": 22872,
+            "percent": 64.7,
+            "percent_display": "64.7",
             "electoral_votes": 0,
             "absentee_votes": 2994,
             "absentee_percent": 47.3,
@@ -14655,9 +14921,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10185,
-            "percent": 32.1,
-            "percent_display": "32.1",
+            "votes": 11373,
+            "percent": 32.2,
+            "percent_display": "32.2",
             "electoral_votes": 0,
             "absentee_votes": 3266,
             "absentee_percent": 51.6,
@@ -14676,9 +14942,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 833,
-            "percent": 2.6,
-            "percent_display": "2.6",
+            "votes": 1103,
+            "percent": 3.1,
+            "percent_display": "3.1",
             "electoral_votes": 0,
             "absentee_votes": 69,
             "absentee_percent": 1.1,
@@ -14913,7 +15179,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19426,
+        "votes": 19438,
         "absentee_votes": 2391,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14939,7 +15205,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:24:17.033Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "coyner-49621",
@@ -14952,9 +15218,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 11109,
-            "percent": 57.2,
-            "percent_display": "57.2",
+            "votes": 11367,
+            "percent": 58.5,
+            "percent_display": "58.5",
             "electoral_votes": 0,
             "absentee_votes": 1159,
             "absentee_percent": 48.5,
@@ -14973,9 +15239,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8317,
-            "percent": 42.8,
-            "percent_display": "42.8",
+            "votes": 8071,
+            "percent": 41.5,
+            "percent_display": "41.5",
             "electoral_votes": 0,
             "absentee_votes": 1232,
             "absentee_percent": 51.5,
@@ -15520,10 +15786,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 33,
+        "precincts_reporting": 34,
         "precincts_total": 37,
-        "reporting_display": "89% reporting",
-        "reporting_value": "89%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15533,7 +15799,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:06:06.270Z",
+        "last_updated": "2021-11-03T03:34:22.870Z",
         "candidates": [
           {
             "candidate_id": "adams-49336",
@@ -18837,8 +19103,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3088690,
-        "absentee_votes": 810064,
+        "votes": 3097953,
+        "absentee_votes": 811298,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -18850,7 +19116,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2681,
+        "precincts_reporting": 2686,
         "precincts_total": 2855,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -18862,7 +19128,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T03:25:17.820Z",
+        "last_updated": "2021-11-03T03:42:26.823Z",
         "candidates": [
           {
             "candidate_id": "miyares-49434",
@@ -18875,11 +19141,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1570613,
+            "votes": 1576236,
             "percent": 50.9,
             "percent_display": "50.9",
             "electoral_votes": 0,
-            "absentee_votes": 312225,
+            "absentee_votes": 312348,
             "absentee_percent": 38.5,
             "img_url": null,
             "has_image": false,
@@ -18896,11 +19162,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1518077,
+            "votes": 1521717,
             "percent": 49.1,
             "percent_display": "49.1",
             "electoral_votes": 0,
-            "absentee_votes": 497839,
+            "absentee_votes": 498950,
             "absentee_percent": 61.5,
             "img_url": null,
             "has_image": false,
@@ -19202,9 +19468,9 @@
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 27804,
-            "absentee_votes": 1009,
-            "reporting": 32,
+            "votes": 30047,
+            "absentee_votes": 2243,
+            "reporting": 33,
             "precincts": 35,
             "absentee_method": null,
             "eevp": null,
@@ -19219,14 +19485,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 23251,
-              "herringm": 4553
+              "miyaresj": 24179,
+              "herringm": 5868
             },
             "results_absentee": {
-              "miyaresj": 805,
-              "herringm": 204
+              "miyaresj": 928,
+              "herringm": 1315
             },
-            "last_updated": "2021-11-03T01:31:00.233Z"
+            "last_updated": "2021-11-03T03:35:23.557Z"
           },
           {
             "fips": "51021",
@@ -19434,9 +19700,9 @@
           {
             "fips": "51031",
             "name": "Campbell",
-            "votes": 17021,
+            "votes": 23112,
             "absentee_votes": 0,
-            "reporting": 16,
+            "reporting": 19,
             "precincts": 19,
             "absentee_method": null,
             "eevp": null,
@@ -19451,14 +19717,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 14018,
-              "herringm": 3003
+              "miyaresj": 18032,
+              "herringm": 5080
             },
             "results_absentee": {
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T01:45:10.043Z"
+            "last_updated": "2021-11-03T03:42:26.823Z"
           },
           {
             "fips": "51033",
@@ -20072,9 +20338,9 @@
           {
             "fips": "51061",
             "name": "Fauquier",
-            "votes": 32820,
+            "votes": 33749,
             "absentee_votes": 12866,
-            "reporting": 21,
+            "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
             "eevp": null,
@@ -20089,14 +20355,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 21281,
-              "herringm": 11539
+              "miyaresj": 21962,
+              "herringm": 11787
             },
             "results_absentee": {
               "miyaresj": 7126,
               "herringm": 5740
             },
-            "last_updated": "2021-11-03T03:15:12.450Z"
+            "last_updated": "2021-11-03T03:34:22.870Z"
           },
           {
             "fips": "51063",
@@ -23819,8 +24085,8 @@
     ]
   },
   "meta": {
-    "version": 1177,
+    "version": 1214,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T03:34:02.536Z"
+    "timestamp": "2021-11-03T03:44:07.054Z"
   }
 }
