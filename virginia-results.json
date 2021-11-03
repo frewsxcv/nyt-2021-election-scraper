@@ -23,12 +23,12 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3179735,
-        "absentee_votes": 850277,
+        "votes": 3247304,
+        "absentee_votes": 903372,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -40,19 +40,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2700,
+        "precincts_reporting": 2710,
         "precincts_total": 2855,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
-        "eevp": 95,
+        "eevp": 97,
         "tot_exp_vote": null,
         "eevp_source": "ap",
-        "eevp_value": "95%",
-        "eevp_display": "95% reported",
+        "eevp_value": ">95%",
+        "eevp_display": ">95% reported",
         "county_data_source": "ap",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2021-11-03T04:34:58.113Z",
+        "last_updated": "2021-11-03T04:59:12.660Z",
         "candidates": [
           {
             "candidate_id": "youngkin-69739",
@@ -64,13 +64,13 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
-            "votes": 1622051,
+            "winner": true,
+            "votes": 1655062,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
-            "absentee_votes": 326475,
-            "absentee_percent": 38.4,
+            "absentee_votes": 357674,
+            "absentee_percent": 39.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -86,12 +86,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1535598,
+            "votes": 1569823,
             "percent": 48.3,
             "percent_display": "48.3",
             "electoral_votes": 0,
-            "absentee_votes": 518888,
-            "absentee_percent": 61,
+            "absentee_votes": 540604,
+            "absentee_percent": 59.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -107,11 +107,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 22086,
+            "votes": 22419,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 4914,
+            "absentee_votes": 5094,
             "absentee_percent": 0.6,
             "img_url": null,
             "has_image": false,
@@ -119,8 +119,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 2.71887,
-        "leader_margin_votes": 86453,
+        "leader_margin_value": 2.62492,
+        "leader_margin_votes": 85239,
         "leader_margin_display": "R+3",
         "leader_margin_name_display": "Youngkin +3",
         "leader_party_id": "republican",
@@ -154,7 +154,7 @@
               "mcauliffet": 2666,
               "blandingp": 20
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 21.95967,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Youngkin +22",
@@ -183,16 +183,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 31462,
               "youngking": 19020,
+              "mcauliffet": 31462,
               "blandingp": 340
             },
             "results_absentee": {
-              "mcauliffet": 14199,
               "youngking": 5011,
+              "mcauliffet": 14199,
               "blandingp": 105
             },
-            "last_updated": "2021-11-03T02:34:45.327Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 24.48152,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "McAuliffe +24",
@@ -221,16 +221,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 42995,
               "youngking": 13827,
+              "mcauliffet": 42995,
               "blandingp": 368
             },
             "results_absentee": {
-              "mcauliffet": 19709,
               "youngking": 4748,
+              "mcauliffet": 19709,
               "blandingp": 139
             },
-            "last_updated": "2021-11-03T04:27:53.330Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 51.00192,
             "leader_margin_display": "D+51",
             "leader_margin_name_display": "McAuliffe +51",
@@ -268,7 +268,7 @@
               "mcauliffet": 455,
               "blandingp": 8
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 49.67912,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
@@ -306,7 +306,7 @@
               "mcauliffet": 746,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 49.03165,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
@@ -344,7 +344,7 @@
               "mcauliffet": 1630,
               "blandingp": 18
             },
-            "last_updated": "2021-11-03T03:14:11.757Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 42.65458,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Youngkin +43",
@@ -382,7 +382,7 @@
               "mcauliffet": 588,
               "blandingp": 11
             },
-            "last_updated": "2021-11-03T01:14:48.967Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 61.06922,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
@@ -411,16 +411,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 71841,
               "youngking": 21433,
+              "mcauliffet": 71841,
               "blandingp": 537
             },
             "results_absentee": {
-              "mcauliffet": 34613,
               "youngking": 6589,
+              "mcauliffet": 34613,
               "blandingp": 228
             },
-            "last_updated": "2021-11-03T02:54:56.717Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 53.73357,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "McAuliffe +54",
@@ -458,7 +458,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T03:51:33.390Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 56.56765,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Youngkin +57",
@@ -496,7 +496,7 @@
               "mcauliffet": 123,
               "blandingp": 2
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 58.74162,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Youngkin +59",
@@ -508,8 +508,8 @@
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 38810,
-            "absentee_votes": 10889,
+            "votes": 38849,
+            "absentee_votes": 10928,
             "reporting": 34,
             "precincts": 35,
             "absentee_method": null,
@@ -525,17 +525,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 30772,
-              "mcauliffet": 7893,
+              "youngking": 30796,
+              "mcauliffet": 7908,
               "blandingp": 145
             },
             "results_absentee": {
-              "youngking": 7347,
-              "mcauliffet": 3497,
+              "youngking": 7371,
+              "mcauliffet": 3512,
               "blandingp": 45
             },
-            "last_updated": "2021-11-03T03:44:29.087Z",
-            "leader_margin_value": 58.9513,
+            "last_updated": "2021-11-03T04:44:04.007Z",
+            "leader_margin_value": 58.91529,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Youngkin +59",
             "leader_party_id": "republican",
@@ -572,7 +572,7 @@
               "mcauliffet": 141,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T04:29:55.340Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 72.05438,
             "leader_margin_display": "R+72",
             "leader_margin_name_display": "Youngkin +72",
@@ -610,7 +610,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:30:42.050Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 53.10413,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Youngkin +53",
@@ -648,7 +648,7 @@
               "mcauliffet": 692,
               "blandingp": 11
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 47.30072,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Youngkin +47",
@@ -677,16 +677,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 3161,
               "youngking": 2877,
+              "mcauliffet": 3161,
               "blandingp": 34
             },
             "results_absentee": {
-              "mcauliffet": 1298,
               "youngking": 772,
+              "mcauliffet": 1298,
               "blandingp": 14
             },
-            "last_updated": "2021-11-02T23:44:29.777Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 4.67721,
             "leader_margin_display": "D+5",
             "leader_margin_name_display": "McAuliffe +5",
@@ -724,7 +724,7 @@
               "mcauliffet": 288,
               "blandingp": 2
             },
-            "last_updated": "2021-11-02T23:44:29.777Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 69.71114,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Youngkin +70",
@@ -762,7 +762,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:45:10.043Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 27.26235,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Youngkin +27",
@@ -800,7 +800,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:13:48.203Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 50.15353,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
@@ -838,7 +838,7 @@
               "mcauliffet": 2059,
               "blandingp": 24
             },
-            "last_updated": "2021-11-03T03:50:32.667Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 57.23951,
             "leader_margin_display": "R+57",
             "leader_margin_name_display": "Youngkin +57",
@@ -876,7 +876,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:42:49.377Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 15.44068,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Youngkin +15",
@@ -914,7 +914,7 @@
               "mcauliffet": 773,
               "blandingp": 12
             },
-            "last_updated": "2021-11-03T01:14:48.967Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 67.43259,
             "leader_margin_display": "R+67",
             "leader_margin_name_display": "Youngkin +67",
@@ -943,16 +943,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 1561,
               "youngking": 1498,
+              "mcauliffet": 1561,
               "blandingp": 13
             },
             "results_absentee": {
-              "mcauliffet": 705,
               "youngking": 428,
+              "mcauliffet": 705,
               "blandingp": 2
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 2.05078,
             "leader_margin_display": "D+2",
             "leader_margin_name_display": "McAuliffe +2",
@@ -990,7 +990,7 @@
               "mcauliffet": 590,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 41.09129,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
@@ -1019,16 +1019,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 14191,
               "youngking": 2746,
+              "mcauliffet": 14191,
               "blandingp": 167
             },
             "results_absentee": {
-              "mcauliffet": 5869,
               "youngking": 672,
+              "mcauliffet": 5869,
               "blandingp": 55
             },
-            "last_updated": "2021-11-03T02:14:30.530Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 66.91417,
             "leader_margin_display": "D+67",
             "leader_margin_name_display": "McAuliffe +67",
@@ -1066,7 +1066,7 @@
               "mcauliffet": 21293,
               "blandingp": 214
             },
-            "last_updated": "2021-11-03T02:43:50.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 6.04694,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Youngkin +6",
@@ -1078,9 +1078,9 @@
           {
             "fips": "51041",
             "name": "Chesterfield",
-            "votes": 86724,
-            "absentee_votes": 0,
-            "reporting": 80,
+            "votes": 141849,
+            "absentee_votes": 55125,
+            "reporting": 81,
             "precincts": 83,
             "absentee_method": null,
             "eevp": null,
@@ -1095,19 +1095,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 48223,
-              "mcauliffet": 37742,
-              "blandingp": 759
+              "youngking": 77237,
+              "mcauliffet": 63621,
+              "blandingp": 991
             },
             "results_absentee": {
-              "youngking": 0,
-              "mcauliffet": 0,
-              "blandingp": 0
+              "youngking": 29014,
+              "mcauliffet": 25879,
+              "blandingp": 232
             },
-            "last_updated": "2021-11-03T04:19:48.063Z",
-            "leader_margin_value": 12.08547,
-            "leader_margin_display": "R+12",
-            "leader_margin_name_display": "Youngkin +12",
+            "last_updated": "2021-11-03T04:54:09.073Z",
+            "leader_margin_value": 9.59894,
+            "leader_margin_display": "R+10",
+            "leader_margin_name_display": "Youngkin +10",
             "leader_party_id": "republican",
             "leader_key": "youngking",
             "votes2020_pres": 203884,
@@ -1142,7 +1142,7 @@
               "mcauliffet": 1369,
               "blandingp": 9
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 25.72862,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Youngkin +26",
@@ -1180,7 +1180,7 @@
               "mcauliffet": 770,
               "blandingp": 20
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 47.75449,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Youngkin +48",
@@ -1218,7 +1218,7 @@
               "mcauliffet": 184,
               "blandingp": 6
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 30.99099,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Youngkin +31",
@@ -1256,7 +1256,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:20:00.863Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 66.00645,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
@@ -1294,7 +1294,7 @@
               "mcauliffet": 3073,
               "blandingp": 33
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 33.73572,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Youngkin +34",
@@ -1332,7 +1332,7 @@
               "mcauliffet": 585,
               "blandingp": 10
             },
-            "last_updated": "2021-11-03T01:03:39.063Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 27.63283,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Youngkin +28",
@@ -1361,16 +1361,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 6839,
               "youngking": 5891,
+              "mcauliffet": 6839,
               "blandingp": 80
             },
             "results_absentee": {
-              "mcauliffet": 2445,
               "youngking": 1838,
+              "mcauliffet": 2445,
               "blandingp": 26
             },
-            "last_updated": "2021-11-03T01:32:00.963Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 7.40047,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "McAuliffe +7",
@@ -1408,7 +1408,7 @@
               "mcauliffet": 465,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T02:16:32.037Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 61.15393,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
@@ -1446,7 +1446,7 @@
               "mcauliffet": 1777,
               "blandingp": 25
             },
-            "last_updated": "2021-11-03T01:23:55.377Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 27.41055,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Youngkin +27",
@@ -1475,16 +1475,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 1086,
               "youngking": 722,
+              "mcauliffet": 1086,
               "blandingp": 20
             },
             "results_absentee": {
-              "mcauliffet": 380,
               "youngking": 182,
+              "mcauliffet": 380,
               "blandingp": 12
             },
-            "last_updated": "2021-11-03T00:54:28.790Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 19.91247,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "McAuliffe +20",
@@ -1522,7 +1522,7 @@
               "mcauliffet": 958,
               "blandingp": 13
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 15.03727,
             "leader_margin_display": "R+15",
             "leader_margin_name_display": "Youngkin +15",
@@ -1551,16 +1551,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 265621,
               "youngking": 144502,
+              "mcauliffet": 265621,
               "blandingp": 2180
             },
             "results_absentee": {
-              "mcauliffet": 99631,
               "youngking": 34655,
+              "mcauliffet": 99631,
               "blandingp": 647
             },
-            "last_updated": "2021-11-03T02:29:40.963Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 29.37621,
             "leader_margin_display": "D+29",
             "leader_margin_name_display": "McAuliffe +29",
@@ -1589,16 +1589,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 6415,
               "youngking": 3588,
+              "mcauliffet": 6415,
               "blandingp": 56
             },
             "results_absentee": {
-              "mcauliffet": 3251,
               "youngking": 1268,
+              "mcauliffet": 3251,
               "blandingp": 26
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 28.10419,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "McAuliffe +28",
@@ -1627,16 +1627,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 5352,
               "youngking": 1581,
+              "mcauliffet": 5352,
               "blandingp": 42
             },
             "results_absentee": {
-              "mcauliffet": 3201,
               "youngking": 620,
+              "mcauliffet": 3201,
               "blandingp": 15
             },
-            "last_updated": "2021-11-03T00:43:20.307Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 54.06452,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "McAuliffe +54",
@@ -1674,7 +1674,7 @@
               "mcauliffet": 5685,
               "blandingp": 51
             },
-            "last_updated": "2021-11-03T03:34:22.870Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 31.62403,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
@@ -1712,7 +1712,7 @@
               "mcauliffet": 259,
               "blandingp": 16
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 40.6639,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
@@ -1750,7 +1750,7 @@
               "mcauliffet": 3151,
               "blandingp": 22
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 14.31339,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Youngkin +14",
@@ -1788,7 +1788,7 @@
               "mcauliffet": 2439,
               "blandingp": 23
             },
-            "last_updated": "2021-11-03T02:43:50.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 50.22722,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
@@ -1817,16 +1817,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 1676,
               "youngking": 1269,
+              "mcauliffet": 1676,
               "blandingp": 14
             },
             "results_absentee": {
-              "mcauliffet": 662,
               "youngking": 396,
+              "mcauliffet": 662,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 13.75465,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "McAuliffe +14",
@@ -1864,7 +1864,7 @@
               "mcauliffet": 4461,
               "blandingp": 28
             },
-            "last_updated": "2021-11-03T03:18:14.483Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 38.85692,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Youngkin +39",
@@ -1893,16 +1893,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 5380,
               "youngking": 3494,
+              "mcauliffet": 5380,
               "blandingp": 113
             },
             "results_absentee": {
-              "mcauliffet": 2374,
               "youngking": 1180,
+              "mcauliffet": 2374,
               "blandingp": 34
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 20.98587,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
@@ -1940,7 +1940,7 @@
               "mcauliffet": 238,
               "blandingp": 3
             },
-            "last_updated": "2021-11-03T00:54:28.790Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 48.59375,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
@@ -1978,7 +1978,7 @@
               "mcauliffet": 780,
               "blandingp": 15
             },
-            "last_updated": "2021-11-03T03:50:32.667Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 57.69283,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Youngkin +58",
@@ -2016,7 +2016,7 @@
               "mcauliffet": 2035,
               "blandingp": 26
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 45.35078,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Youngkin +45",
@@ -2054,7 +2054,7 @@
               "mcauliffet": 2570,
               "blandingp": 19
             },
-            "last_updated": "2021-11-03T02:54:56.717Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 32.39213,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
@@ -2092,7 +2092,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:53:55.590Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 65.52665,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
@@ -2130,7 +2130,7 @@
               "mcauliffet": 1466,
               "blandingp": 23
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 35.96501,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Youngkin +36",
@@ -2159,16 +2159,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 1912,
               "youngking": 1709,
+              "mcauliffet": 1912,
               "blandingp": 12
             },
             "results_absentee": {
-              "mcauliffet": 641,
               "youngking": 434,
+              "mcauliffet": 641,
               "blandingp": 2
             },
-            "last_updated": "2021-11-03T00:43:20.307Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 5.58767,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "McAuliffe +6",
@@ -2206,7 +2206,7 @@
               "mcauliffet": 1971,
               "blandingp": 25
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 28.5312,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
@@ -2235,16 +2235,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 29719,
               "youngking": 14586,
+              "mcauliffet": 29719,
               "blandingp": 439
             },
             "results_absentee": {
-              "mcauliffet": 12567,
               "youngking": 3520,
+              "mcauliffet": 12567,
               "blandingp": 96
             },
-            "last_updated": "2021-11-03T04:05:40.990Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 33.82129,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "McAuliffe +34",
@@ -2282,7 +2282,7 @@
               "mcauliffet": 7752,
               "blandingp": 95
             },
-            "last_updated": "2021-11-03T02:04:23.423Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 37.11662,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Youngkin +37",
@@ -2311,16 +2311,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 6749,
               "youngking": 4369,
+              "mcauliffet": 6749,
               "blandingp": 127
             },
             "results_absentee": {
-              "mcauliffet": 0,
               "youngking": 0,
+              "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:39:16.920Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 21.16496,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
@@ -2349,16 +2349,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 79336,
               "youngking": 55033,
+              "mcauliffet": 79336,
               "blandingp": 1288
             },
             "results_absentee": {
-              "mcauliffet": 0,
               "youngking": 0,
+              "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:46:10.747Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 17.91504,
             "leader_margin_display": "D+18",
             "leader_margin_name_display": "McAuliffe +18",
@@ -2370,9 +2370,9 @@
           {
             "fips": "51089",
             "name": "Henry",
-            "votes": 14316,
-            "absentee_votes": 0,
-            "reporting": 25,
+            "votes": 15649,
+            "absentee_votes": 2410,
+            "reporting": 26,
             "precincts": 27,
             "absentee_method": null,
             "eevp": null,
@@ -2387,19 +2387,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 10308,
-              "mcauliffet": 3944,
-              "blandingp": 64
+              "youngking": 11026,
+              "mcauliffet": 4554,
+              "blandingp": 69
             },
             "results_absentee": {
-              "youngking": 0,
-              "mcauliffet": 0,
-              "blandingp": 0
+              "youngking": 1111,
+              "mcauliffet": 1284,
+              "blandingp": 15
             },
-            "last_updated": "2021-11-03T04:06:41.680Z",
-            "leader_margin_value": 44.45376,
-            "leader_margin_display": "R+44",
-            "leader_margin_name_display": "Youngkin +44",
+            "last_updated": "2021-11-03T04:38:00.557Z",
+            "leader_margin_value": 41.35728,
+            "leader_margin_display": "R+41",
+            "leader_margin_name_display": "Youngkin +41",
             "leader_party_id": "republican",
             "leader_key": "youngking",
             "votes2020_pres": 26105,
@@ -2434,7 +2434,7 @@
               "mcauliffet": 122,
               "blandingp": 3
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 49.57725,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
@@ -2472,7 +2472,7 @@
               "mcauliffet": 1332,
               "blandingp": 32
             },
-            "last_updated": "2021-11-03T04:24:52.050Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 0.2723,
             "leader_margin_display": "R+0.27",
             "leader_margin_name_display": "Youngkin +0.27",
@@ -2510,7 +2510,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:36:14.013Z",
+            "last_updated": "2021-11-03T04:59:12.660Z",
             "leader_margin_value": 29.34109,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
@@ -2548,7 +2548,7 @@
               "mcauliffet": 11721,
               "blandingp": 66
             },
-            "last_updated": "2021-11-03T04:34:58.113Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 5.69668,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Youngkin +6",
@@ -2586,7 +2586,7 @@
               "mcauliffet": 1828,
               "blandingp": 34
             },
-            "last_updated": "2021-11-03T00:54:28.790Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 37.15437,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Youngkin +37",
@@ -2624,7 +2624,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:03:39.063Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 47.17224,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Youngkin +47",
@@ -2662,7 +2662,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:09:44.620Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 30.33292,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
@@ -2700,7 +2700,7 @@
               "mcauliffet": 1120,
               "blandingp": 7
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 17.78346,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Youngkin +18",
@@ -2712,7 +2712,7 @@
           {
             "fips": "51105",
             "name": "Lee",
-            "votes": 7268,
+            "votes": 7264,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 19,
@@ -2730,7 +2730,7 @@
             "provisional_count_progress": null,
             "results": {
               "youngking": 6369,
-              "mcauliffet": 881,
+              "mcauliffet": 877,
               "blandingp": 18
             },
             "results_absentee": {
@@ -2738,8 +2738,8 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:02:22.430Z",
-            "leader_margin_value": 75.50908,
+            "last_updated": "2021-11-03T04:56:10.493Z",
+            "leader_margin_value": 75.60573,
             "leader_margin_display": "R+76",
             "leader_margin_name_display": "Youngkin +76",
             "leader_party_id": "republican",
@@ -2767,16 +2767,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 1276,
               "youngking": 773,
+              "mcauliffet": 1276,
               "blandingp": 10
             },
             "results_absentee": {
-              "mcauliffet": 781,
               "youngking": 299,
+              "mcauliffet": 781,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T00:43:20.307Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 24.42933,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "McAuliffe +24",
@@ -2805,16 +2805,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 87529,
               "youngking": 70765,
+              "mcauliffet": 87529,
               "blandingp": 757
             },
             "results_absentee": {
-              "mcauliffet": 36322,
               "youngking": 21630,
+              "mcauliffet": 36322,
               "blandingp": 259
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 10.54002,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "McAuliffe +11",
@@ -2852,7 +2852,7 @@
               "mcauliffet": 2590,
               "blandingp": 24
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 33.0457,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
@@ -2890,7 +2890,7 @@
               "mcauliffet": 703,
               "blandingp": 4
             },
-            "last_updated": "2021-11-03T00:43:20.307Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 31.59843,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
@@ -2928,7 +2928,7 @@
               "mcauliffet": 5031,
               "blandingp": 67
             },
-            "last_updated": "2021-11-03T02:14:30.530Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 11.02295,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Youngkin +11",
@@ -2966,7 +2966,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:22:54.650Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 41.044,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
@@ -2995,16 +2995,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 6164,
               "youngking": 5033,
+              "mcauliffet": 6164,
               "blandingp": 85
             },
             "results_absentee": {
-              "mcauliffet": 3047,
               "youngking": 1843,
+              "mcauliffet": 3047,
               "blandingp": 35
             },
-            "last_updated": "2021-11-02T23:44:29.777Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 10.02482,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "McAuliffe +10",
@@ -3033,16 +3033,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 2152,
               "youngking": 1372,
+              "mcauliffet": 2152,
               "blandingp": 45
             },
             "results_absentee": {
-              "mcauliffet": 925,
               "youngking": 450,
+              "mcauliffet": 925,
               "blandingp": 22
             },
-            "last_updated": "2021-11-03T01:23:55.377Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 21.85486,
             "leader_margin_display": "D+22",
             "leader_margin_name_display": "McAuliffe +22",
@@ -3071,16 +3071,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 2206,
               "youngking": 1675,
+              "mcauliffet": 2206,
               "blandingp": 40
             },
             "results_absentee": {
-              "mcauliffet": 0,
               "youngking": 0,
+              "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:04:40.227Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 13.54246,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "McAuliffe +14",
@@ -3118,7 +3118,7 @@
               "mcauliffet": 859,
               "blandingp": 2
             },
-            "last_updated": "2021-11-02T23:53:37.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 43.77312,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Youngkin +44",
@@ -3156,7 +3156,7 @@
               "mcauliffet": 1372,
               "blandingp": 12
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 29.9102,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
@@ -3194,7 +3194,7 @@
               "mcauliffet": 816,
               "blandingp": 13
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 32.99393,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
@@ -3232,7 +3232,7 @@
               "mcauliffet": 6978,
               "blandingp": 124
             },
-            "last_updated": "2021-11-03T03:14:11.757Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 5.65829,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Youngkin +6",
@@ -3270,7 +3270,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:17:59.097Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 12.1351,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Youngkin +12",
@@ -3308,7 +3308,7 @@
               "mcauliffet": 797,
               "blandingp": 2
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 47.87007,
             "leader_margin_display": "R+48",
             "leader_margin_name_display": "Youngkin +48",
@@ -3337,16 +3337,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 32311,
               "youngking": 21173,
+              "mcauliffet": 32311,
               "blandingp": 583
             },
             "results_absentee": {
-              "mcauliffet": 11712,
               "youngking": 4330,
+              "mcauliffet": 11712,
               "blandingp": 154
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 20.60037,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "McAuliffe +21",
@@ -3375,16 +3375,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 30818,
               "youngking": 15560,
+              "mcauliffet": 30818,
               "blandingp": 677
             },
             "results_absentee": {
-              "mcauliffet": 0,
               "youngking": 0,
+              "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T03:04:04.330Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 32.42588,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "McAuliffe +32",
@@ -3422,7 +3422,7 @@
               "mcauliffet": 292,
               "blandingp": 1
             },
-            "last_updated": "2021-11-03T01:22:54.650Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 1.9909,
             "leader_margin_display": "R+2.0",
             "leader_margin_name_display": "Youngkin +2.0",
@@ -3460,7 +3460,7 @@
               "mcauliffet": 1236,
               "blandingp": 8
             },
-            "last_updated": "2021-11-02T23:44:29.777Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 28.67919,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
@@ -3498,7 +3498,7 @@
               "mcauliffet": 178,
               "blandingp": 9
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 45.49249,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Youngkin +45",
@@ -3536,7 +3536,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:09:26.943Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 29.78172,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
@@ -3574,7 +3574,7 @@
               "mcauliffet": 2079,
               "blandingp": 21
             },
-            "last_updated": "2021-11-03T00:25:05.690Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 33.36453,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Youngkin +33",
@@ -3612,7 +3612,7 @@
               "mcauliffet": 1118,
               "blandingp": 12
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 58.26304,
             "leader_margin_display": "R+58",
             "leader_margin_name_display": "Youngkin +58",
@@ -3650,7 +3650,7 @@
               "mcauliffet": 481,
               "blandingp": 7
             },
-            "last_updated": "2021-11-03T00:54:28.790Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 65.0187,
             "leader_margin_display": "R+65",
             "leader_margin_name_display": "Youngkin +65",
@@ -3679,16 +3679,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 7531,
               "youngking": 1200,
+              "mcauliffet": 7531,
               "blandingp": 136
             },
             "results_absentee": {
-              "mcauliffet": 3536,
               "youngking": 463,
+              "mcauliffet": 3536,
               "blandingp": 51
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 71.39957,
             "leader_margin_display": "D+71",
             "leader_margin_name_display": "McAuliffe +71",
@@ -3726,7 +3726,7 @@
               "mcauliffet": 1834,
               "blandingp": 16
             },
-            "last_updated": "2021-11-03T01:03:39.063Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 51.12151,
             "leader_margin_display": "R+51",
             "leader_margin_name_display": "Youngkin +51",
@@ -3764,7 +3764,7 @@
               "mcauliffet": 752,
               "blandingp": 11
             },
-            "last_updated": "2021-11-03T01:23:55.377Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 56.36537,
             "leader_margin_display": "R+56",
             "leader_margin_name_display": "Youngkin +56",
@@ -3793,16 +3793,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 19357,
               "youngking": 9903,
+              "mcauliffet": 19357,
               "blandingp": 350
             },
             "results_absentee": {
-              "mcauliffet": 6642,
               "youngking": 1466,
+              "mcauliffet": 6642,
               "blandingp": 95
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 31.9284,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "McAuliffe +32",
@@ -3840,7 +3840,7 @@
               "mcauliffet": 1767,
               "blandingp": 14
             },
-            "last_updated": "2021-11-03T03:24:17.033Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 54.08324,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Youngkin +54",
@@ -3878,7 +3878,7 @@
               "mcauliffet": 1149,
               "blandingp": 13
             },
-            "last_updated": "2021-11-03T00:43:20.307Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 9.53655,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Youngkin +10",
@@ -3916,7 +3916,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:47:23.493Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 30.13147,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
@@ -3945,16 +3945,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 100410,
               "youngking": 70439,
+              "mcauliffet": 100410,
               "blandingp": 1172
             },
             "results_absentee": {
-              "mcauliffet": 49745,
               "youngking": 25362,
+              "mcauliffet": 49745,
               "blandingp": 425
             },
-            "last_updated": "2021-11-03T03:04:04.330Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 17.42287,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "McAuliffe +17",
@@ -3992,7 +3992,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T03:11:10.107Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 49.08179,
             "leader_margin_display": "R+49",
             "leader_margin_name_display": "Youngkin +49",
@@ -4030,7 +4030,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:12:47.090Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 9.34736,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Youngkin +9",
@@ -4068,7 +4068,7 @@
               "mcauliffet": 769,
               "blandingp": 8
             },
-            "last_updated": "2021-11-03T00:54:28.790Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 19.87134,
             "leader_margin_display": "R+20",
             "leader_margin_name_display": "Youngkin +20",
@@ -4106,7 +4106,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:32:00.963Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 40.52185,
             "leader_margin_display": "R+41",
             "leader_margin_name_display": "Youngkin +41",
@@ -4135,16 +4135,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 60455,
               "youngking": 15462,
+              "mcauliffet": 60455,
               "blandingp": 2348
             },
             "results_absentee": {
-              "mcauliffet": 22065,
               "youngking": 4099,
+              "mcauliffet": 22065,
               "blandingp": 473
             },
-            "last_updated": "2021-11-03T02:34:45.327Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 57.48802,
             "leader_margin_display": "D+57",
             "leader_margin_name_display": "McAuliffe +57",
@@ -4182,7 +4182,7 @@
               "mcauliffet": 6614,
               "blandingp": 61
             },
-            "last_updated": "2021-11-03T02:14:30.530Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 32.33858,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Youngkin +32",
@@ -4194,8 +4194,8 @@
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 28961,
-            "absentee_votes": 11076,
+            "votes": 40037,
+            "absentee_votes": 0,
             "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
@@ -4211,19 +4211,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 16690,
-              "youngking": 12002,
-              "blandingp": 269
+              "youngking": 15257,
+              "mcauliffet": 24415,
+              "blandingp": 365
             },
             "results_absentee": {
-              "mcauliffet": 7725,
-              "youngking": 3255,
-              "blandingp": 96
+              "youngking": 0,
+              "mcauliffet": 0,
+              "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:14:30.530Z",
-            "leader_margin_value": 16.18729,
-            "leader_margin_display": "D+16",
-            "leader_margin_name_display": "McAuliffe +16",
+            "last_updated": "2021-11-03T04:39:01.870Z",
+            "leader_margin_value": 22.87384,
+            "leader_margin_display": "D+23",
+            "leader_margin_name_display": "McAuliffe +23",
             "leader_party_id": "democrat",
             "leader_key": "mcauliffet",
             "votes2020_pres": 43323,
@@ -4258,7 +4258,7 @@
               "mcauliffet": 1474,
               "blandingp": 10
             },
-            "last_updated": "2021-11-03T02:34:45.327Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 38.49234,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Youngkin +38",
@@ -4272,7 +4272,7 @@
             "name": "Rockingham",
             "votes": 26301,
             "absentee_votes": 0,
-            "reporting": 25,
+            "reporting": 31,
             "precincts": 34,
             "absentee_method": null,
             "eevp": null,
@@ -4296,7 +4296,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T03:57:37.493Z",
+            "last_updated": "2021-11-03T04:51:07.237Z",
             "leader_margin_value": 61.45013,
             "leader_margin_display": "R+61",
             "leader_margin_name_display": "Youngkin +61",
@@ -4334,7 +4334,7 @@
               "mcauliffet": 614,
               "blandingp": 6
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 70.31394,
             "leader_margin_display": "R+70",
             "leader_margin_name_display": "Youngkin +70",
@@ -4372,7 +4372,7 @@
               "mcauliffet": 1877,
               "blandingp": 21
             },
-            "last_updated": "2021-11-03T01:54:17.073Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 29.45126,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Youngkin +29",
@@ -4410,7 +4410,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:40:05.557Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 74.3047,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Youngkin +74",
@@ -4448,7 +4448,7 @@
               "mcauliffet": 2132,
               "blandingp": 35
             },
-            "last_updated": "2021-11-03T03:05:05.470Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 50.07381,
             "leader_margin_display": "R+50",
             "leader_margin_name_display": "Youngkin +50",
@@ -4486,7 +4486,7 @@
               "mcauliffet": 512,
               "blandingp": 4
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 65.70284,
             "leader_margin_display": "R+66",
             "leader_margin_name_display": "Youngkin +66",
@@ -4524,7 +4524,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:06:42.050Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 30.31078,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Youngkin +30",
@@ -4562,7 +4562,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:43:50.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 20.86092,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Youngkin +21",
@@ -4600,7 +4600,7 @@
               "mcauliffet": 9420,
               "blandingp": 114
             },
-            "last_updated": "2021-11-03T02:43:50.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 11.04083,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Youngkin +11",
@@ -4629,16 +4629,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 4951,
               "youngking": 4613,
+              "mcauliffet": 4951,
               "blandingp": 114
             },
             "results_absentee": {
-              "mcauliffet": 0,
               "youngking": 0,
+              "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T01:11:46.013Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 3.49246,
             "leader_margin_display": "D+3",
             "leader_margin_name_display": "McAuliffe +3",
@@ -4667,16 +4667,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 18896,
               "youngking": 17260,
+              "mcauliffet": 18896,
               "blandingp": 246
             },
             "results_absentee": {
-              "mcauliffet": 7700,
               "youngking": 4268,
+              "mcauliffet": 7700,
               "blandingp": 61
             },
-            "last_updated": "2021-11-03T04:24:52.050Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 4.49426,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "McAuliffe +4",
@@ -4714,7 +4714,7 @@
               "mcauliffet": 783,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 0.79365,
             "leader_margin_display": "R+0.79",
             "leader_margin_name_display": "Youngkin +0.79",
@@ -4743,16 +4743,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 2020,
               "youngking": 1969,
+              "mcauliffet": 2020,
               "blandingp": 24
             },
             "results_absentee": {
-              "mcauliffet": 682,
               "youngking": 476,
+              "mcauliffet": 682,
               "blandingp": 8
             },
-            "last_updated": "2021-11-02T23:53:37.083Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 1.27087,
             "leader_margin_display": "D+1.3",
             "leader_margin_name_display": "McAuliffe +1.3",
@@ -4790,7 +4790,7 @@
               "mcauliffet": 896,
               "blandingp": 20
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 73.69484,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Youngkin +74",
@@ -4828,7 +4828,7 @@
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T03:23:16.317Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 8.31031,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Youngkin +8",
@@ -4842,7 +4842,7 @@
             "name": "Warren",
             "votes": 15657,
             "absentee_votes": 5006,
-            "reporting": 12,
+            "reporting": 13,
             "precincts": 14,
             "absentee_method": null,
             "eevp": null,
@@ -4866,7 +4866,7 @@
               "mcauliffet": 2150,
               "blandingp": 28
             },
-            "last_updated": "2021-11-03T03:17:13.807Z",
+            "last_updated": "2021-11-03T04:57:11.210Z",
             "leader_margin_value": 44.47851,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Youngkin +44",
@@ -4879,8 +4879,8 @@
             "fips": "51191",
             "name": "Washington",
             "votes": 21922,
-            "absentee_votes": 0,
-            "reporting": 20,
+            "absentee_votes": 6597,
+            "reporting": 21,
             "precincts": 22,
             "absentee_method": null,
             "eevp": null,
@@ -4900,11 +4900,11 @@
               "blandingp": 78
             },
             "results_absentee": {
-              "youngking": 0,
-              "mcauliffet": 0,
-              "blandingp": 0
+              "youngking": 4305,
+              "mcauliffet": 2263,
+              "blandingp": 29
             },
-            "last_updated": "2021-11-03T00:07:49.707Z",
+            "last_updated": "2021-11-03T04:59:12.660Z",
             "leader_margin_value": 58.82675,
             "leader_margin_display": "R+59",
             "leader_margin_name_display": "Youngkin +59",
@@ -4942,7 +4942,7 @@
               "mcauliffet": 1601,
               "blandingp": 30
             },
-            "last_updated": "2021-11-03T00:13:54.950Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 15.54616,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Youngkin +16",
@@ -4980,7 +4980,7 @@
               "mcauliffet": 1248,
               "blandingp": 5
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 21.72309,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Youngkin +22",
@@ -5009,16 +5009,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 3160,
               "youngking": 1695,
+              "mcauliffet": 3160,
               "blandingp": 39
             },
             "results_absentee": {
-              "mcauliffet": 1871,
               "youngking": 885,
+              "mcauliffet": 1871,
               "blandingp": 18
             },
-            "last_updated": "2021-11-03T00:34:12.177Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 29.93461,
             "leader_margin_display": "D+30",
             "leader_margin_name_display": "McAuliffe +30",
@@ -5047,16 +5047,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcauliffet": 4249,
               "youngking": 4119,
+              "mcauliffet": 4249,
               "blandingp": 55
             },
             "results_absentee": {
-              "mcauliffet": 2177,
               "youngking": 1438,
+              "mcauliffet": 2177,
               "blandingp": 21
             },
-            "last_updated": "2021-11-03T01:44:09.337Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 1.54339,
             "leader_margin_display": "D+1.5",
             "leader_margin_name_display": "McAuliffe +1.5",
@@ -5094,7 +5094,7 @@
               "mcauliffet": 814,
               "blandingp": 18
             },
-            "last_updated": "2021-11-03T01:45:10.043Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 68.46495,
             "leader_margin_display": "R+68",
             "leader_margin_name_display": "Youngkin +68",
@@ -5132,7 +5132,7 @@
               "mcauliffet": 947,
               "blandingp": 13
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 64.16501,
             "leader_margin_display": "R+64",
             "leader_margin_name_display": "Youngkin +64",
@@ -5170,7 +5170,7 @@
               "mcauliffet": 6878,
               "blandingp": 61
             },
-            "last_updated": "2021-11-03T00:04:47.213Z",
+            "last_updated": "2021-11-03T04:38:00.557Z",
             "leader_margin_value": 17.89282,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "Youngkin +18",
@@ -5189,7 +5189,7 @@
             "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
-            "race_won": false,
+            "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
             "additional_votes_reported": false,
@@ -5198,7 +5198,7 @@
           },
           "details_about_changes": {}
         },
-        "winnerCalledTimestamp": null
+        "winnerCalledTimestamp": 1635914277043
       },
       {
         "race_id": "VA-G-lieutenant_governor-2021-11-02",
@@ -5226,8 +5226,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3166167,
-        "absentee_votes": 813944,
+        "votes": 3235680,
+        "absentee_votes": 862607,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -5239,7 +5239,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2699,
+        "precincts_reporting": 2708,
         "precincts_total": 2855,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -5251,7 +5251,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T04:34:58.113Z",
+        "last_updated": "2021-11-03T04:59:12.660Z",
         "candidates": [
           {
             "candidate_id": "sears-65856",
@@ -5264,12 +5264,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1616004,
+            "votes": 1650440,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
-            "absentee_votes": 314465,
-            "absentee_percent": 38.6,
+            "absentee_votes": 342755,
+            "absentee_percent": 39.7,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -5285,12 +5285,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1550163,
+            "votes": 1585240,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
-            "absentee_votes": 499479,
-            "absentee_percent": 61.4,
+            "absentee_votes": 519852,
+            "absentee_percent": 60.3,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -5591,8 +5591,8 @@
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 38604,
-            "absentee_votes": 10828,
+            "votes": 38643,
+            "absentee_votes": 10867,
             "reporting": 34,
             "precincts": 35,
             "absentee_method": null,
@@ -5608,14 +5608,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 30466,
-              "ayalah": 8138
+              "searsw": 30489,
+              "ayalah": 8154
             },
             "results_absentee": {
-              "searsw": 7286,
-              "ayalah": 3542
+              "searsw": 7309,
+              "ayalah": 3558
             },
-            "last_updated": "2021-11-03T03:44:29.087Z"
+            "last_updated": "2021-11-03T04:44:04.007Z"
           },
           {
             "fips": "51021",
@@ -6026,9 +6026,9 @@
           {
             "fips": "51041",
             "name": "Chesterfield",
-            "votes": 86410,
-            "absentee_votes": 0,
-            "reporting": 80,
+            "votes": 143594,
+            "absentee_votes": 57184,
+            "reporting": 81,
             "precincts": 83,
             "absentee_method": null,
             "eevp": null,
@@ -6043,14 +6043,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 48153,
-              "ayalah": 38257
+              "searsw": 78580,
+              "ayalah": 65014
             },
             "results_absentee": {
-              "searsw": 0,
-              "ayalah": 0
+              "searsw": 30427,
+              "ayalah": 26757
             },
-            "last_updated": "2021-11-03T04:19:48.063Z"
+            "last_updated": "2021-11-03T04:54:09.073Z"
           },
           {
             "fips": "51043",
@@ -7012,9 +7012,9 @@
           {
             "fips": "51089",
             "name": "Henry",
-            "votes": 14189,
-            "absentee_votes": 0,
-            "reporting": 25,
+            "votes": 15517,
+            "absentee_votes": 2402,
+            "reporting": 26,
             "precincts": 27,
             "absentee_method": null,
             "eevp": null,
@@ -7029,14 +7029,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 10142,
-              "ayalah": 4047
+              "searsw": 10861,
+              "ayalah": 4656
             },
             "results_absentee": {
-              "searsw": 0,
-              "ayalah": 0
+              "searsw": 1107,
+              "ayalah": 1295
             },
-            "last_updated": "2021-11-03T04:07:42.473Z"
+            "last_updated": "2021-11-03T04:38:00.557Z"
           },
           {
             "fips": "51091",
@@ -7123,7 +7123,7 @@
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T00:36:14.013Z"
+            "last_updated": "2021-11-03T04:59:12.660Z"
           },
           {
             "fips": "51095",
@@ -8404,8 +8404,8 @@
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 28647,
-            "absentee_votes": 10962,
+            "votes": 39609,
+            "absentee_votes": 0,
             "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
@@ -8421,14 +8421,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ayalah": 16777,
-              "searsw": 11870
+              "ayalah": 24472,
+              "searsw": 15137
             },
             "results_absentee": {
-              "ayalah": 7695,
-              "searsw": 3267
+              "ayalah": 0,
+              "searsw": 0
             },
-            "last_updated": "2021-11-03T02:14:30.530Z"
+            "last_updated": "2021-11-03T04:39:01.870Z"
           },
           {
             "fips": "51163",
@@ -8464,7 +8464,7 @@
             "name": "Rockingham",
             "votes": 26081,
             "absentee_votes": 0,
-            "reporting": 25,
+            "reporting": 31,
             "precincts": 34,
             "absentee_method": null,
             "eevp": null,
@@ -8486,7 +8486,7 @@
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T03:57:37.493Z"
+            "last_updated": "2021-11-03T04:51:07.237Z"
           },
           {
             "fips": "51167",
@@ -8899,7 +8899,7 @@
             "name": "Warren",
             "votes": 15573,
             "absentee_votes": 4984,
-            "reporting": 12,
+            "reporting": 13,
             "precincts": 14,
             "absentee_method": null,
             "eevp": null,
@@ -8921,7 +8921,7 @@
               "searsw": 2844,
               "ayalah": 2140
             },
-            "last_updated": "2021-11-03T03:17:13.807Z"
+            "last_updated": "2021-11-03T04:57:11.210Z"
           },
           {
             "fips": "51191",
@@ -9871,8 +9871,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 30230,
-        "absentee_votes": 6389,
+        "votes": 31929,
+        "absentee_votes": 8344,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -9884,10 +9884,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 44,
+        "precincts_reporting": 45,
         "precincts_total": 48,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "94% reporting",
+        "reporting_value": "94%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -9897,7 +9897,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:08:43.170Z",
+        "last_updated": "2021-11-03T04:52:07.937Z",
         "candidates": [
           {
             "candidate_id": "williams-49650",
@@ -9910,12 +9910,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 23341,
-            "percent": 77.2,
-            "percent_display": "77.2",
+            "votes": 24469,
+            "percent": 76.6,
+            "percent_display": "76.6",
             "electoral_votes": 0,
-            "absentee_votes": 3954,
-            "absentee_percent": 61.9,
+            "absentee_votes": 5189,
+            "absentee_percent": 62.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -9931,12 +9931,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6889,
-            "percent": 22.8,
-            "percent_display": "22.8",
+            "votes": 7460,
+            "percent": 23.4,
+            "percent_display": "23.4",
             "electoral_votes": 0,
-            "absentee_votes": 2435,
-            "absentee_percent": 38.1,
+            "absentee_votes": 3155,
+            "absentee_percent": 37.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10069,8 +10069,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22372,
-        "absentee_votes": 8785,
+        "votes": 31157,
+        "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10095,7 +10095,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T02:20:35.083Z",
+        "last_updated": "2021-11-03T04:39:01.870Z",
         "candidates": [
           {
             "candidate_id": "rasoul-49370",
@@ -10108,12 +10108,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 14423,
-            "percent": 64.5,
-            "percent_display": "64.5",
+            "votes": 21009,
+            "percent": 67.4,
+            "percent_display": "67.4",
             "electoral_votes": 0,
-            "absentee_votes": 6586,
-            "absentee_percent": 75,
+            "absentee_votes": 0,
+            "absentee_percent": 0,
             "img_url": null
           },
           {
@@ -10127,12 +10127,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7949,
-            "percent": 35.5,
-            "percent_display": "35.5",
+            "votes": 10148,
+            "percent": 32.6,
+            "percent_display": "32.6",
             "electoral_votes": 0,
-            "absentee_votes": 2199,
-            "absentee_percent": 25,
+            "absentee_votes": 0,
+            "absentee_percent": 0,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10364,8 +10364,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25532,
-        "absentee_votes": 1852,
+        "votes": 26948,
+        "absentee_votes": 3268,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10377,10 +10377,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 37,
+        "precincts_reporting": 38,
         "precincts_total": 41,
-        "reporting_display": "90% reporting",
-        "reporting_value": "90%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10390,7 +10390,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:09:43.890Z",
+        "last_updated": "2021-11-03T04:58:11.947Z",
         "candidates": [
           {
             "candidate_id": "marshall-49652",
@@ -10403,12 +10403,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 16843,
-            "percent": 66,
-            "percent_display": "66.0",
+            "votes": 17708,
+            "percent": 65.7,
+            "percent_display": "65.7",
             "electoral_votes": 0,
-            "absentee_votes": 1229,
-            "absentee_percent": 66.4,
+            "absentee_votes": 2094,
+            "absentee_percent": 64.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10424,12 +10424,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8689,
-            "percent": 34,
-            "percent_display": "34.0",
+            "votes": 9240,
+            "percent": 34.3,
+            "percent_display": "34.3",
             "electoral_votes": 0,
-            "absentee_votes": 623,
-            "absentee_percent": 33.6,
+            "absentee_votes": 1174,
+            "absentee_percent": 35.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10562,8 +10562,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 26590,
-        "absentee_votes": 4081,
+        "votes": 27616,
+        "absentee_votes": 5107,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10575,10 +10575,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 46,
+        "precincts_reporting": 47,
         "precincts_total": 50,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "94% reporting",
+        "reporting_value": "94%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -10588,7 +10588,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:09:43.890Z",
+        "last_updated": "2021-11-03T04:52:07.937Z",
         "candidates": [
           {
             "candidate_id": "adams-49375",
@@ -10601,12 +10601,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 18711,
-            "percent": 70.4,
-            "percent_display": "70.4",
+            "votes": 19377,
+            "percent": 70.2,
+            "percent_display": "70.2",
             "electoral_votes": 0,
-            "absentee_votes": 2533,
-            "absentee_percent": 62.1,
+            "absentee_votes": 3199,
+            "absentee_percent": 62.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10622,12 +10622,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7879,
-            "percent": 29.6,
-            "percent_display": "29.6",
+            "votes": 8239,
+            "percent": 29.8,
+            "percent_display": "29.8",
             "electoral_votes": 0,
-            "absentee_votes": 1548,
-            "absentee_percent": 37.9,
+            "absentee_votes": 1908,
+            "absentee_percent": 37.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -10838,8 +10838,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 34991,
-        "absentee_votes": 9654,
+        "votes": 35006,
+        "absentee_votes": 9669,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -10864,7 +10864,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:44:29.087Z",
+        "last_updated": "2021-11-03T04:44:04.007Z",
         "candidates": [
           {
             "candidate_id": "austin-49378",
@@ -10877,11 +10877,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 27451,
-            "percent": 78.5,
-            "percent_display": "78.5",
+            "votes": 27461,
+            "percent": 78.4,
+            "percent_display": "78.4",
             "electoral_votes": 0,
-            "absentee_votes": 6551,
+            "absentee_votes": 6561,
             "absentee_percent": 67.9,
             "img_url": null,
             "has_image": false,
@@ -10898,11 +10898,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6901,
+            "votes": 6906,
             "percent": 19.7,
             "percent_display": "19.7",
             "electoral_votes": 0,
-            "absentee_votes": 2980,
+            "absentee_votes": 2985,
             "absentee_percent": 30.9,
             "img_url": null,
             "has_image": false,
@@ -11156,8 +11156,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 32721,
-        "absentee_votes": 7362,
+        "votes": 32752,
+        "absentee_votes": 7393,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -11182,7 +11182,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:16:46.773Z",
+        "last_updated": "2021-11-03T04:44:04.007Z",
         "candidates": [
           {
             "candidate_id": "byron-49380",
@@ -11195,12 +11195,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 23857,
+            "votes": 23878,
             "percent": 72.9,
             "percent_display": "72.9",
             "electoral_votes": 0,
-            "absentee_votes": 4170,
-            "absentee_percent": 56.6,
+            "absentee_votes": 4191,
+            "absentee_percent": 56.7,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11216,12 +11216,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8334,
+            "votes": 8344,
             "percent": 25.5,
             "percent_display": "25.5",
             "electoral_votes": 0,
-            "absentee_votes": 3082,
-            "absentee_percent": 41.9,
+            "absentee_votes": 3092,
+            "absentee_percent": 41.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11276,8 +11276,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 32866,
-        "absentee_votes": 9734,
+        "votes": 32873,
+        "absentee_votes": 9741,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -11302,7 +11302,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:44:29.087Z",
+        "last_updated": "2021-11-03T04:44:04.007Z",
         "candidates": [
           {
             "candidate_id": "walker-49630",
@@ -11315,11 +11315,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 21961,
+            "votes": 21967,
             "percent": 66.8,
             "percent_display": "66.8",
             "electoral_votes": 0,
-            "absentee_votes": 4876,
+            "absentee_votes": 4882,
             "absentee_percent": 50.1,
             "img_url": null,
             "has_image": false,
@@ -11336,11 +11336,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10905,
+            "votes": 10906,
             "percent": 33.2,
             "percent_display": "33.2",
             "electoral_votes": 0,
-            "absentee_votes": 4858,
+            "absentee_votes": 4859,
             "absentee_percent": 49.9,
             "img_url": null,
             "has_image": false,
@@ -11672,8 +11672,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 20394,
-        "absentee_votes": 0,
+        "votes": 33100,
+        "absentee_votes": 12706,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -11685,10 +11685,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 26,
+        "precincts_reporting": 27,
         "precincts_total": 30,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
+        "reporting_display": "90% reporting",
+        "reporting_value": "90%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11698,7 +11698,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "robinson-49385",
@@ -11711,12 +11711,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 11259,
-            "percent": 55.2,
-            "percent_display": "55.2",
+            "votes": 17992,
+            "percent": 54.4,
+            "percent_display": "54.4",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 6733,
+            "absentee_percent": 53,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -11732,12 +11732,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9135,
-            "percent": 44.8,
-            "percent_display": "44.8",
+            "votes": 15108,
+            "percent": 45.6,
+            "percent_display": "45.6",
             "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
+            "absentee_votes": 5973,
+            "absentee_percent": 47,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -12782,8 +12782,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23315,
-        "absentee_votes": 8503,
+        "votes": 23412,
+        "absentee_votes": 8581,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -12808,7 +12808,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:51:33.390Z",
+        "last_updated": "2021-11-03T04:52:07.937Z",
         "candidates": [
           {
             "candidate_id": "kory-49396",
@@ -12821,12 +12821,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 16041,
-            "percent": 68.8,
-            "percent_display": "68.8",
+            "votes": 16125,
+            "percent": 68.9,
+            "percent_display": "68.9",
             "electoral_votes": 0,
-            "absentee_votes": 6575,
-            "absentee_percent": 77.3,
+            "absentee_votes": 6639,
+            "absentee_percent": 77.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -12842,12 +12842,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7274,
-            "percent": 31.2,
-            "percent_display": "31.2",
+            "votes": 7287,
+            "percent": 31.1,
+            "percent_display": "31.1",
             "electoral_votes": 0,
-            "absentee_votes": 1928,
-            "absentee_percent": 22.7,
+            "absentee_votes": 1942,
+            "absentee_percent": 22.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15179,8 +15179,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19438,
-        "absentee_votes": 2391,
+        "votes": 28568,
+        "absentee_votes": 11521,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15192,10 +15192,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 22,
+        "precincts_reporting": 23,
         "precincts_total": 27,
-        "reporting_display": "81% reporting",
-        "reporting_value": "81%",
+        "reporting_display": "85% reporting",
+        "reporting_value": "85%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15205,7 +15205,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:24:52.050Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "coyner-49621",
@@ -15218,12 +15218,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 11367,
-            "percent": 58.5,
-            "percent_display": "58.5",
+            "votes": 17008,
+            "percent": 59.5,
+            "percent_display": "59.5",
             "electoral_votes": 0,
-            "absentee_votes": 1159,
-            "absentee_percent": 48.5,
+            "absentee_votes": 6800,
+            "absentee_percent": 59,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15239,12 +15239,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8071,
-            "percent": 41.5,
-            "percent_display": "41.5",
+            "votes": 11560,
+            "percent": 40.5,
+            "percent_display": "40.5",
             "electoral_votes": 0,
-            "absentee_votes": 1232,
-            "absentee_percent": 51.5,
+            "absentee_votes": 4721,
+            "absentee_percent": 41,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15278,8 +15278,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 27150,
-        "absentee_votes": 7851,
+        "votes": 31814,
+        "absentee_votes": 12515,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15291,10 +15291,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 32,
+        "precincts_reporting": 33,
         "precincts_total": 38,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "87% reporting",
+        "reporting_value": "87%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15304,29 +15304,8 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
-          {
-            "candidate_id": "aird-49328",
-            "candidate_key": "airdl",
-            "first_name": "Lashrecse",
-            "last_name": "Aird",
-            "order": 1,
-            "name_display": "Lashrecse Aird",
-            "party_id": "democrat",
-            "incumbent": true,
-            "runoff": false,
-            "winner": false,
-            "votes": 13732,
-            "percent": 50.6,
-            "percent_display": "50.6",
-            "electoral_votes": 0,
-            "absentee_votes": 5240,
-            "absentee_percent": 66.7,
-            "img_url": null,
-            "has_image": false,
-            "link": ""
-          },
           {
             "candidate_id": "taylor-49722",
             "candidate_key": "taylork",
@@ -15338,12 +15317,33 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 13418,
-            "percent": 49.4,
-            "percent_display": "49.4",
+            "votes": 16443,
+            "percent": 51.7,
+            "percent_display": "51.7",
             "electoral_votes": 0,
-            "absentee_votes": 2611,
-            "absentee_percent": 33.3,
+            "absentee_votes": 5636,
+            "absentee_percent": 45,
+            "img_url": null,
+            "has_image": false,
+            "link": ""
+          },
+          {
+            "candidate_id": "aird-49328",
+            "candidate_key": "airdl",
+            "first_name": "Lashrecse",
+            "last_name": "Aird",
+            "order": 1,
+            "name_display": "Lashrecse Aird",
+            "party_id": "democrat",
+            "incumbent": true,
+            "runoff": false,
+            "winner": false,
+            "votes": 15371,
+            "percent": 48.3,
+            "percent_display": "48.3",
+            "electoral_votes": 0,
+            "absentee_votes": 6879,
+            "absentee_percent": 55,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15403,7 +15403,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:24:52.050Z",
+        "last_updated": "2021-11-03T04:59:12.660Z",
         "candidates": [
           {
             "candidate_id": "brewer-49303",
@@ -15476,8 +15476,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 39967,
-        "absentee_votes": 9213,
+        "votes": 47788,
+        "absentee_votes": 17034,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15489,10 +15489,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 42,
+        "precincts_reporting": 43,
         "precincts_total": 49,
-        "reporting_display": "86% reporting",
-        "reporting_value": "86%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15502,7 +15502,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "ware-49419",
@@ -15515,12 +15515,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 27846,
-            "percent": 69.7,
-            "percent_display": "69.7",
+            "votes": 32500,
+            "percent": 68,
+            "percent_display": "68.0",
             "electoral_votes": 0,
-            "absentee_votes": 6095,
-            "absentee_percent": 66.2,
+            "absentee_votes": 10749,
+            "absentee_percent": 63.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15536,12 +15536,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12121,
-            "percent": 30.3,
-            "percent_display": "30.3",
+            "votes": 15288,
+            "percent": 32,
+            "percent_display": "32.0",
             "electoral_votes": 0,
-            "absentee_votes": 3118,
-            "absentee_percent": 33.8,
+            "absentee_votes": 6285,
+            "absentee_percent": 36.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15575,8 +15575,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19361,
-        "absentee_votes": 2946,
+        "votes": 31153,
+        "absentee_votes": 14738,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15588,10 +15588,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 26,
+        "precincts_reporting": 27,
         "precincts_total": 31,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "87% reporting",
+        "reporting_value": "87%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15601,7 +15601,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "cherry-49667",
@@ -15614,12 +15614,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 11205,
-            "percent": 57.9,
-            "percent_display": "57.9",
+            "votes": 16958,
+            "percent": 54.4,
+            "percent_display": "54.4",
             "electoral_votes": 0,
-            "absentee_votes": 2186,
-            "absentee_percent": 74.2,
+            "absentee_votes": 7939,
+            "absentee_percent": 53.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15635,12 +15635,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8156,
-            "percent": 42.1,
-            "percent_display": "42.1",
+            "votes": 14195,
+            "percent": 45.6,
+            "percent_display": "45.6",
             "electoral_votes": 0,
-            "absentee_votes": 760,
-            "absentee_percent": 25.8,
+            "absentee_votes": 6799,
+            "absentee_percent": 46.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15773,8 +15773,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 36688,
-        "absentee_votes": 6646,
+        "votes": 43409,
+        "absentee_votes": 13367,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15786,10 +15786,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 32,
+        "precincts_reporting": 33,
         "precincts_total": 37,
-        "reporting_display": "86% reporting",
-        "reporting_value": "86%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15799,7 +15799,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "adams-49336",
@@ -15812,12 +15812,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 19650,
-            "percent": 53.6,
-            "percent_display": "53.6",
+            "votes": 22669,
+            "percent": 52.2,
+            "percent_display": "52.2",
             "electoral_votes": 0,
-            "absentee_votes": 4457,
-            "absentee_percent": 67.1,
+            "absentee_votes": 7476,
+            "absentee_percent": 55.9,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15833,12 +15833,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 17038,
-            "percent": 46.4,
-            "percent_display": "46.4",
+            "votes": 20740,
+            "percent": 47.8,
+            "percent_display": "47.8",
             "electoral_votes": 0,
-            "absentee_votes": 2189,
-            "absentee_percent": 32.9,
+            "absentee_votes": 5891,
+            "absentee_percent": 44.1,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -15971,8 +15971,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25918,
-        "absentee_votes": 1937,
+        "votes": 28757,
+        "absentee_votes": 4776,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -15984,10 +15984,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 30,
+        "precincts_reporting": 31,
         "precincts_total": 39,
-        "reporting_display": "77% reporting",
-        "reporting_value": "77%",
+        "reporting_display": "79% reporting",
+        "reporting_value": "79%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15997,7 +15997,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T04:19:48.063Z",
+        "last_updated": "2021-11-03T04:54:09.073Z",
         "candidates": [
           {
             "candidate_id": "mcquinn-49340",
@@ -16010,12 +16010,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 18718,
-            "percent": 72.2,
-            "percent_display": "72.2",
+            "votes": 20563,
+            "percent": 71.5,
+            "percent_display": "71.5",
             "electoral_votes": 0,
-            "absentee_votes": 1478,
-            "absentee_percent": 76.3,
+            "absentee_votes": 3323,
+            "absentee_percent": 69.6,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -16031,12 +16031,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7200,
-            "percent": 27.8,
-            "percent_display": "27.8",
+            "votes": 8194,
+            "percent": 28.5,
+            "percent_display": "28.5",
             "electoral_votes": 0,
-            "absentee_votes": 459,
-            "absentee_percent": 23.7,
+            "absentee_votes": 1453,
+            "absentee_percent": 30.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -19000,7 +19000,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -19030,7 +19030,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T03:05:05.470Z",
+        "last_updated": "2021-11-03T04:39:01.870Z",
         "candidates": [
           {
             "candidate_id": "bloxom-49355",
@@ -19042,7 +19042,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 14417,
             "percent": 57.7,
             "percent_display": "57.7",
@@ -19103,8 +19103,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3163969,
-        "absentee_votes": 859468,
+        "votes": 3232164,
+        "absentee_votes": 906881,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -19116,7 +19116,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2699,
+        "precincts_reporting": 2707,
         "precincts_total": 2855,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -19128,7 +19128,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T04:34:58.113Z",
+        "last_updated": "2021-11-03T04:59:12.660Z",
         "candidates": [
           {
             "candidate_id": "miyares-49434",
@@ -19141,12 +19141,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1607575,
+            "votes": 1640460,
             "percent": 50.8,
             "percent_display": "50.8",
             "electoral_votes": 0,
-            "absentee_votes": 333816,
-            "absentee_percent": 38.8,
+            "absentee_votes": 360837,
+            "absentee_percent": 39.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -19162,12 +19162,12 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1556394,
+            "votes": 1591704,
             "percent": 49.2,
             "percent_display": "49.2",
             "electoral_votes": 0,
-            "absentee_votes": 525652,
-            "absentee_percent": 61.2,
+            "absentee_votes": 546044,
+            "absentee_percent": 60.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -19236,7 +19236,7 @@
           {
             "fips": "51510",
             "name": "Alexandria",
-            "votes": 56657,
+            "votes": 56665,
             "absentee_votes": 24430,
             "reporting": 32,
             "precincts": 33,
@@ -19253,14 +19253,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 43166,
-              "miyaresj": 13491
+              "herringm": 43196,
+              "miyaresj": 13469
             },
             "results_absentee": {
               "herringm": 19732,
               "miyaresj": 4698
             },
-            "last_updated": "2021-11-03T04:05:40.990Z"
+            "last_updated": "2021-11-03T04:47:05.450Z"
           },
           {
             "fips": "51005",
@@ -19468,8 +19468,8 @@
           {
             "fips": "51019",
             "name": "Bedford",
-            "votes": 38643,
-            "absentee_votes": 10839,
+            "votes": 38682,
+            "absentee_votes": 10878,
             "reporting": 34,
             "precincts": 35,
             "absentee_method": null,
@@ -19485,14 +19485,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 30555,
-              "herringm": 8088
+              "miyaresj": 30578,
+              "herringm": 8104
             },
             "results_absentee": {
-              "miyaresj": 7304,
-              "herringm": 3535
+              "miyaresj": 7327,
+              "herringm": 3551
             },
-            "last_updated": "2021-11-03T03:44:29.087Z"
+            "last_updated": "2021-11-03T04:44:04.007Z"
           },
           {
             "fips": "51021",
@@ -19903,9 +19903,9 @@
           {
             "fips": "51041",
             "name": "Chesterfield",
-            "votes": 86451,
-            "absentee_votes": 0,
-            "reporting": 80,
+            "votes": 142449,
+            "absentee_votes": 55998,
+            "reporting": 81,
             "precincts": 83,
             "absentee_method": null,
             "eevp": null,
@@ -19920,14 +19920,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 48071,
-              "herringm": 38380
+              "miyaresj": 77207,
+              "herringm": 65242
             },
             "results_absentee": {
-              "miyaresj": 0,
-              "herringm": 0
+              "miyaresj": 29136,
+              "herringm": 26862
             },
-            "last_updated": "2021-11-03T04:19:48.063Z"
+            "last_updated": "2021-11-03T04:54:09.073Z"
           },
           {
             "fips": "51043",
@@ -20889,9 +20889,9 @@
           {
             "fips": "51089",
             "name": "Henry",
-            "votes": 14225,
-            "absentee_votes": 0,
-            "reporting": 25,
+            "votes": 15550,
+            "absentee_votes": 2401,
+            "reporting": 26,
             "precincts": 27,
             "absentee_method": null,
             "eevp": null,
@@ -20906,14 +20906,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 10113,
-              "herringm": 4112
+              "miyaresj": 10826,
+              "herringm": 4724
             },
             "results_absentee": {
-              "miyaresj": 0,
-              "herringm": 0
+              "miyaresj": 1097,
+              "herringm": 1304
             },
-            "last_updated": "2021-11-03T04:08:43.170Z"
+            "last_updated": "2021-11-03T04:38:00.557Z"
           },
           {
             "fips": "51091",
@@ -21000,7 +21000,7 @@
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T00:36:14.013Z"
+            "last_updated": "2021-11-03T04:59:12.660Z"
           },
           {
             "fips": "51095",
@@ -21150,7 +21150,7 @@
           {
             "fips": "51105",
             "name": "Lee",
-            "votes": 7230,
+            "votes": 7030,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 19,
@@ -21167,14 +21167,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 6314,
+              "miyaresj": 6114,
               "herringm": 916
             },
             "results_absentee": {
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T02:02:22.430Z"
+            "last_updated": "2021-11-03T04:57:11.210Z"
           },
           {
             "fips": "51678",
@@ -22281,8 +22281,8 @@
           {
             "fips": "51770",
             "name": "Roanoke City",
-            "votes": 28742,
-            "absentee_votes": 11025,
+            "votes": 39767,
+            "absentee_votes": 0,
             "reporting": 22,
             "precincts": 23,
             "absentee_method": null,
@@ -22298,14 +22298,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "herringm": 16952,
-              "miyaresj": 11790
+              "herringm": 24742,
+              "miyaresj": 15025
             },
             "results_absentee": {
-              "herringm": 7790,
-              "miyaresj": 3235
+              "herringm": 0,
+              "miyaresj": 0
             },
-            "last_updated": "2021-11-03T02:14:30.530Z"
+            "last_updated": "2021-11-03T04:39:01.870Z"
           },
           {
             "fips": "51163",
@@ -22341,7 +22341,7 @@
             "name": "Rockingham",
             "votes": 26084,
             "absentee_votes": 0,
-            "reporting": 25,
+            "reporting": 31,
             "precincts": 34,
             "absentee_method": null,
             "eevp": null,
@@ -22363,7 +22363,7 @@
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T03:57:37.493Z"
+            "last_updated": "2021-11-03T04:51:07.237Z"
           },
           {
             "fips": "51167",
@@ -23037,6 +23037,44 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 60,
+        "author": "Tracey Tully",
+        "text": "Phil Murphy, New Jersey’s Democratic governor,  and his Republican challenger, Jack Ciattarelli, addressed supporters almost simultaneously early Wednesday. Both said it will take more time to count all the vote-by-mail and provisional ballots. ",
+        "author_title_or_location": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1635915219000,
+        "hide_from_homepage": false,
+        "html": true,
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "link_url": "",
+        "link_text": "",
+        "author_headshot": "https://static01.nyt.com/images/2021/06/16/reader-center/author-tracey-tully/author-tracey-tully-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 59,
+        "author": "Neil Vigdor",
+        "text": "The World Series ends — and so have the mayoral ambitions of Bobby Valentine, who concedes to Democrat Caroline Simmons in Stamford, Conn.",
+        "author_title_or_location": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1635914339000,
+        "hide_from_homepage": false,
+        "html": true,
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "link_url": "",
+        "link_text": "",
+        "author_headshot": "https://static01.nyt.com/images/2019/07/25/reader-center/author-neil-vigdor/author-neil-vigdor-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 58,
         "author": "Nate Cohn",
@@ -24142,8 +24180,8 @@
     ]
   },
   "meta": {
-    "version": 1384,
+    "version": 1453,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T04:37:27.233Z"
+    "timestamp": "2021-11-03T05:00:17.260Z"
   }
 }
