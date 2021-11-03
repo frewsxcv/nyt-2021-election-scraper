@@ -1,18 +1,19 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2021-11-03 03:02 UTC
-Latest batch received: (Virginia)  2021-11-03 03:02 UTC
+Last updated:                      2021-11-03 03:07 UTC
+Latest batch received: (Virginia)  2021-11-03 03:07 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
 
-Virginia (EV: None) Total Votes: (Youngkin: 1,550,218, McAuliffe: 1,487,263)
+Virginia (EV: None) Total Votes: (Youngkin: 1,560,455, McAuliffe: 1,502,917)
 ----------------  ---  -------------------  -------  -----------------------------  ----------------  -------  ----------------
+2021-11-03 03:07  ***  Youngkin up 57,538   Unknown  Δ:  25,891 (McAuliffe +10.5%)  92.78% precincts  Unknown  & trends  58.31%
 2021-11-03 03:02  ***  Youngkin up 62,955   Unknown  Δ:     800 (McAuliffe + 9.1%)  92.68% precincts  Unknown  & trends  77.25%
 2021-11-03 03:00  ***  Youngkin up 63,101   Unknown  Δ:   2,897 (Youngkin +14.6%)   92.68% precincts  Unknown  & trends  77.87%
 2021-11-03 02:57  ***  Youngkin up 62,254   Unknown  Δ:  82,384 (McAuliffe +32.4%)  93.73% precincts  Unknown  & trends  82.41%
 2021-11-03 02:49  ***  Youngkin up 115,660  Unknown  Δ:   4,978 (McAuliffe +26.4%)  93.35% precincts  Unknown  & trends  56.99%
 2021-11-03 02:45  ***  Youngkin up 118,288  Unknown  Δ:  14,614 (McAuliffe + 7.9%)  93.42% precincts  Unknown  & trends  52.02%
 2021-11-03 02:41  ***  Youngkin up 120,588  Unknown  Δ:  56,178 (Youngkin + 3.5%)   93.24% precincts  Unknown  & trends  46.47%
-2021-11-03 02:36  ***  Youngkin up 116,626  Unknown  Δ:  78,749 (McAuliffe +10.3%)  92.05% precincts  Unknown  & trends  60.28%
+2021-11-03 02:36  ---  Youngkin up 116,626  Unknown  Δ:  78,749 (McAuliffe +10.3%)  92.05% precincts  Unknown  & trends  60.28%
 2021-11-03 02:23  ---  Youngkin up 132,809  Unknown  Δ:     990 (McAuliffe +50.0%)  91.03% precincts  Unknown  & trends  66.74%
 2021-11-03 02:21  ---  Youngkin up 133,799  Unknown  Δ: 117,017 (McAuliffe +15.6%)  91.00% precincts  Unknown  & trends  65.61%
 2021-11-03 02:04  ---  Youngkin up 170,332  Unknown  Δ:  38,860 (McAuliffe + 2.9%)  88.51% precincts  Unknown  & trends  52.90%
