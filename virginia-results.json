@@ -22772,6 +22772,25 @@
     ],
     "liveUpdates": [
       {
+        "id": 47,
+        "author": "Reid Epstein",
+        "text": "Terry McAuliffe, who did not concede defeat in his brief remarks, will not be speaking again tonight, an aide said.",
+        "author_title_or_location": "Reporting from Northern Virginia",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1635906976000,
+        "hide_from_homepage": false,
+        "html": true,
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "link_url": "",
+        "link_text": "",
+        "author_headshot": "https://static01.nyt.com/images/2019/06/25/reader-center/author-reid-epstein/9e877853d8234217b58e5762253aa771-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
         "id": 46,
         "author": "Reid Epstein",
         "text": "McAuliffe in a speech before supporters: “We still got a lot of vote to count, we have about 18 percent of the vote out, we're going to continue to count the votes because every single Virginian deserves to have their vote counted.”",
@@ -23648,8 +23667,8 @@
     ]
   },
   "meta": {
-    "version": 945,
+    "version": 953,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T02:36:32.389Z"
+    "timestamp": "2021-11-03T02:39:02.614Z"
   }
 }
