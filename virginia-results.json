@@ -27,7 +27,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2896125,
+        "votes": 2952489,
         "absentee_votes": 659252,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40,19 +40,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2628,
+        "precincts_reporting": 2662,
         "precincts_total": 2855,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
-        "eevp": 89,
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
+        "eevp": 91,
         "tot_exp_vote": null,
         "eevp_source": "ap",
-        "eevp_value": "89%",
-        "eevp_display": "89% reported",
+        "eevp_value": "91%",
+        "eevp_display": "91% reported",
         "county_data_source": "ap",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:34:45.327Z",
+        "last_updated": "2021-11-03T02:40:47.870Z",
         "candidates": [
           {
             "candidate_id": "youngkin-69739",
@@ -65,7 +65,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1496128,
+            "votes": 1526198,
             "percent": 51.7,
             "percent_display": "51.7",
             "electoral_votes": 0,
@@ -86,7 +86,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1379502,
+            "votes": 1405610,
             "percent": 47.6,
             "percent_display": "47.6",
             "electoral_votes": 0,
@@ -107,7 +107,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 20495,
+            "votes": 20681,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -119,8 +119,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 4.02697,
-        "leader_margin_votes": 116626,
+        "leader_margin_value": 4.08428,
+        "leader_margin_votes": 120588,
         "leader_margin_display": "R+4",
         "leader_margin_name_display": "Youngkin +4",
         "leader_party_id": "republican",
@@ -4556,9 +4556,9 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 102512,
+            "votes": 158876,
             "absentee_votes": 0,
-            "reporting": 69,
+            "reporting": 103,
             "precincts": 103,
             "absentee_method": null,
             "eevp": null,
@@ -4573,19 +4573,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 59978,
-              "mcauliffet": 41728,
-              "blandingp": 806
+              "youngking": 90048,
+              "mcauliffet": 67836,
+              "blandingp": 992
             },
             "results_absentee": {
               "youngking": 0,
               "mcauliffet": 0,
               "blandingp": 0
             },
-            "last_updated": "2021-11-03T02:13:29.730Z",
-            "leader_margin_value": 17.80279,
-            "leader_margin_display": "R+18",
-            "leader_margin_name_display": "Youngkin +18",
+            "last_updated": "2021-11-03T02:40:47.870Z",
+            "leader_margin_value": 13.98071,
+            "leader_margin_display": "R+14",
+            "leader_margin_name_display": "Youngkin +14",
             "leader_party_id": "republican",
             "leader_key": "youngking"
           },
@@ -4960,7 +4960,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2843393,
+        "votes": 2899459,
         "absentee_votes": 639216,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -4973,10 +4973,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2617,
+        "precincts_reporting": 2652,
         "precincts_total": 2855,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -4985,7 +4985,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:35:46.077Z",
+        "last_updated": "2021-11-03T02:40:47.870Z",
         "candidates": [
           {
             "candidate_id": "sears-65856",
@@ -4998,9 +4998,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1470760,
-            "percent": 51.7,
-            "percent_display": "51.7",
+            "votes": 1500808,
+            "percent": 51.8,
+            "percent_display": "51.8",
             "electoral_votes": 0,
             "absentee_votes": 240508,
             "absentee_percent": 37.6,
@@ -5019,9 +5019,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1372633,
-            "percent": 48.3,
-            "percent_display": "48.3",
+            "votes": 1398651,
+            "percent": 48.2,
+            "percent_display": "48.2",
             "electoral_votes": 0,
             "absentee_votes": 398708,
             "absentee_percent": 62.4,
@@ -8602,9 +8602,9 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 101862,
+            "votes": 157928,
             "absentee_votes": 0,
-            "reporting": 68,
+            "reporting": 103,
             "precincts": 103,
             "absentee_method": null,
             "eevp": null,
@@ -8619,14 +8619,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 59999,
-              "ayalah": 41863
+              "searsw": 90047,
+              "ayalah": 67881
             },
             "results_absentee": {
               "searsw": 0,
               "ayalah": 0
             },
-            "last_updated": "2021-11-03T02:13:29.730Z"
+            "last_updated": "2021-11-03T02:40:47.870Z"
           },
           {
             "fips": "51187",
@@ -18837,7 +18837,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 2878897,
+        "votes": 2935084,
         "absentee_votes": 682146,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -18850,10 +18850,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2622,
+        "precincts_reporting": 2657,
         "precincts_total": 2855,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -18862,7 +18862,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:35:46.077Z",
+        "last_updated": "2021-11-03T02:40:47.870Z",
         "candidates": [
           {
             "candidate_id": "miyares-49434",
@@ -18875,7 +18875,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1481221,
+            "votes": 1511364,
             "percent": 51.5,
             "percent_display": "51.5",
             "electoral_votes": 0,
@@ -18896,7 +18896,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1397676,
+            "votes": 1423720,
             "percent": 48.5,
             "percent_display": "48.5",
             "electoral_votes": 0,
@@ -22479,9 +22479,9 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 101928,
+            "votes": 158115,
             "absentee_votes": 0,
-            "reporting": 68,
+            "reporting": 103,
             "precincts": 103,
             "absentee_method": null,
             "eevp": null,
@@ -22496,14 +22496,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 59698,
-              "herringm": 42230
+              "miyaresj": 89841,
+              "herringm": 68274
             },
             "results_absentee": {
               "miyaresj": 0,
               "herringm": 0
             },
-            "last_updated": "2021-11-03T02:13:29.730Z"
+            "last_updated": "2021-11-03T02:40:47.870Z"
           },
           {
             "fips": "51187",
@@ -22771,6 +22771,44 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 49,
+        "author": "Tracey Tully",
+        "text": "Diane Allen, Jack Ciattarelli’s Republican running-mate in New Jersey, just addressed an energized G.O.P. crowd watching results arrive slowly. “We feel good,” she said. “Let’s continue.”",
+        "author_title_or_location": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1635907248000,
+        "hide_from_homepage": false,
+        "html": true,
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "link_url": "",
+        "link_text": "",
+        "author_headshot": "https://static01.nyt.com/images/2021/06/16/reader-center/author-tracey-tully/author-tracey-tully-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 48,
+        "author": "Kendrick Brinson",
+        "text": "Felicia Moore, a candidate for mayor in Atlanta, hugged supporters at her election night watch party in Downtown Atlanta.",
+        "author_title_or_location": "",
+        "image_url": "https://static01.nyt.com/images/2021/11/02/us/politics/02election-atlanta-moorephoto/merlin_197244306_60ed7f2e-665b-406f-8cba-eb25b16c25cf-superJumbo.jpg",
+        "image_credit": "Kendrick Brinson for The New York Times",
+        "datetime": 1635907187000,
+        "hide_from_homepage": true,
+        "html": true,
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "link_url": "",
+        "link_text": "",
+        "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 47,
         "author": "Reid Epstein",
@@ -23667,8 +23705,8 @@
     ]
   },
   "meta": {
-    "version": 955,
+    "version": 962,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T02:39:32.660Z"
+    "timestamp": "2021-11-03T02:41:22.456Z"
   }
 }
