@@ -1,11 +1,12 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2021-11-03 02:58 UTC
-Latest batch received: (Virginia)  2021-11-03 02:57 UTC
+Last updated:                      2021-11-03 03:01 UTC
+Latest batch received: (Virginia)  2021-11-03 03:00 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
 
-Virginia (EV: None) Total Votes: (Youngkin: 1,548,019, McAuliffe: 1,485,765)
+Virginia (EV: None) Total Votes: (Youngkin: 1,549,891, McAuliffe: 1,486,790)
 ----------------  ---  -------------------  -------  -----------------------------  ----------------  -------  ----------------
+2021-11-03 03:00  ***  Youngkin up 63,101   Unknown  Δ:   2,897 (Youngkin +14.6%)   92.68% precincts  Unknown  & trends  77.87%
 2021-11-03 02:57  ***  Youngkin up 62,254   Unknown  Δ:  82,384 (McAuliffe +32.4%)  93.73% precincts  Unknown  & trends  82.41%
 2021-11-03 02:49  ***  Youngkin up 115,660  Unknown  Δ:   4,978 (McAuliffe +26.4%)  93.35% precincts  Unknown  & trends  56.99%
 2021-11-03 02:45  ***  Youngkin up 118,288  Unknown  Δ:  14,614 (McAuliffe + 7.9%)  93.42% precincts  Unknown  & trends  52.02%
