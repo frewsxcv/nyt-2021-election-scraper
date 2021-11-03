@@ -252,7 +252,8 @@ def html_summary(state_slug: str, summary: IterationSummary, always_visible: boo
     else:
         counties_tooltip_attributes = 'class="numeric"'
     shown_votes_remaining = f'{summary.votes_remaining:,}' if summary.votes_remaining > 0 else 'Unknown'
-    always_visible_attribute = ' class="always-visible"' if always_visible else ''
+    always_visible_attribute = ' class="always-visible"'
+    # always_visible_attribute = ' class="always-visible"' if always_visible else ''
     html = f'''
         <tr id="{state_slug}-{summary.timestamp.isoformat()}"{always_visible_attribute}>
             <td class="timestamp">{summary.timestamp.strftime('%Y-%m-%d %H:%M:%S')} UTC</td>

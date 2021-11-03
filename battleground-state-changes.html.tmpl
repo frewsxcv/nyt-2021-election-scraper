@@ -38,10 +38,6 @@
         padding: .25rem .5rem;
     }
 
-    .table.shrunk tbody tr:not(.always-visible) {
-        display: none;
-    }
-
     thead td {
       background-color: #e9ecef;
       line-height: 1.2rem;
@@ -219,7 +215,6 @@
         <div class="col-sm">
             <p class="float-right">
             <button type='button' id='live_update_button' class='btn btn-secondary'>Enable Live Updates</button>
-            <button type='button' id='shrink_button' class='btn btn-secondary'>Shrink Tables</button>
             </p>
         </div>
     </div>
@@ -283,17 +278,6 @@
             })
         };
         loadTooltips();
-
-        /*
-        const shrinkTablesFeature = 'shrunk';
-        feature(shrinkTablesFeature, '#shrink_button', true, button => {
-            button.html('Expand Tables');
-            $('.table').addClass('shrunk');
-        }, button => {
-            button.html('Shrink Tables');
-            $('.table').removeClass('shrunk');
-        });
-        */
     </script>
 
     <script type="text/javascript">
@@ -372,7 +356,6 @@
             });
 
             loadTooltips();
-            refreshFeature(shrinkTablesFeature);
 
             return latestContent.metadata;
         };
