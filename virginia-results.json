@@ -27,7 +27,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3058090,
+        "votes": 3058893,
         "absentee_votes": 813183,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52,7 +52,7 @@
         "county_data_source": "ap",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2021-11-03T03:00:00.303Z",
+        "last_updated": "2021-11-03T03:02:02.397Z",
         "candidates": [
           {
             "candidate_id": "youngkin-69739",
@@ -65,7 +65,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1549891,
+            "votes": 1550218,
             "percent": 50.7,
             "percent_display": "50.7",
             "electoral_votes": 0,
@@ -86,7 +86,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1486790,
+            "votes": 1487263,
             "percent": 48.6,
             "percent_display": "48.6",
             "electoral_votes": 0,
@@ -107,7 +107,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 21409,
+            "votes": 21412,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -119,8 +119,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 2.06341,
-        "leader_margin_votes": 63101,
+        "leader_margin_value": 2.0581,
+        "leader_margin_votes": 62955,
         "leader_margin_display": "R+2",
         "leader_margin_name_display": "Youngkin +2",
         "leader_party_id": "republican",
@@ -4556,7 +4556,7 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 178200,
+            "votes": 179003,
             "absentee_votes": 74105,
             "reporting": 103,
             "precincts": 103,
@@ -4573,17 +4573,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "youngking": 96332,
-              "mcauliffet": 80681,
-              "blandingp": 1187
+              "youngking": 96659,
+              "mcauliffet": 81154,
+              "blandingp": 1190
             },
             "results_absentee": {
               "youngking": 35270,
               "mcauliffet": 38458,
               "blandingp": 377
             },
-            "last_updated": "2021-11-03T02:58:59.620Z",
-            "leader_margin_value": 8.78283,
+            "last_updated": "2021-11-03T03:02:02.397Z",
+            "leader_margin_value": 8.66187,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Youngkin +9",
             "leader_party_id": "republican",
@@ -4960,7 +4960,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3042205,
+        "votes": 3042999,
         "absentee_votes": 785198,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -4973,7 +4973,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2675,
+        "precincts_reporting": 2674,
         "precincts_total": 2855,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -4985,7 +4985,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T02:58:59.620Z",
+        "last_updated": "2021-11-03T03:02:02.397Z",
         "candidates": [
           {
             "candidate_id": "sears-65856",
@@ -4998,7 +4998,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1556916,
+            "votes": 1557240,
             "percent": 51.2,
             "percent_display": "51.2",
             "electoral_votes": 0,
@@ -5019,7 +5019,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1485289,
+            "votes": 1485759,
             "percent": 48.8,
             "percent_display": "48.8",
             "electoral_votes": 0,
@@ -8602,9 +8602,9 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 177185,
+            "votes": 177979,
             "absentee_votes": 73749,
-            "reporting": 103,
+            "reporting": 102,
             "precincts": 103,
             "absentee_method": null,
             "eevp": null,
@@ -8619,14 +8619,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "searsw": 96514,
-              "ayalah": 80671
+              "searsw": 96838,
+              "ayalah": 81141
             },
             "results_absentee": {
               "searsw": 35420,
               "ayalah": 38329
             },
-            "last_updated": "2021-11-03T02:58:59.620Z"
+            "last_updated": "2021-11-03T03:02:02.397Z"
           },
           {
             "fips": "51187",
@@ -8992,7 +8992,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -9022,7 +9022,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T02:54:56.717Z",
+        "last_updated": "2021-11-03T03:02:22.857Z",
         "candidates": [
           {
             "candidate_id": "king-49676",
@@ -9034,7 +9034,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 15789,
             "percent": 57.6,
             "percent_display": "57.6",
@@ -16415,12 +16415,12 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 26215,
-        "absentee_votes": 11341,
+        "votes": 27540,
+        "absentee_votes": 13,
         "absentee_counties": null,
         "absentee_count_progress": null,
         "absentee_outstanding": null,
@@ -16432,10 +16432,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 27,
+        "precincts_reporting": 26,
         "precincts_total": 30,
-        "reporting_display": "90% reporting",
-        "reporting_value": "90%",
+        "reporting_display": "87% reporting",
+        "reporting_value": "87%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -16445,7 +16445,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2021-11-03T02:58:59.620Z",
+        "last_updated": "2021-11-03T03:02:02.397Z",
         "candidates": [
           {
             "candidate_id": "hayes-49274",
@@ -16457,13 +16457,13 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
-            "votes": 16088,
-            "percent": 61.4,
-            "percent_display": "61.4",
+            "winner": true,
+            "votes": 17354,
+            "percent": 63,
+            "percent_display": "63.0",
             "electoral_votes": 0,
-            "absentee_votes": 7611,
-            "absentee_percent": 67.1,
+            "absentee_votes": 7,
+            "absentee_percent": 53.8,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -16479,12 +16479,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10127,
-            "percent": 38.6,
-            "percent_display": "38.6",
+            "votes": 10186,
+            "percent": 37,
+            "percent_display": "37.0",
             "electoral_votes": 0,
-            "absentee_votes": 3730,
-            "absentee_percent": 32.9,
+            "absentee_votes": 6,
+            "absentee_percent": 46.2,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -18837,7 +18837,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3041549,
+        "votes": 3042346,
         "absentee_votes": 835837,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -18850,7 +18850,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-11-02T23:00:00.000Z",
         "poll_time_short": "7:00 p.m.",
-        "precincts_reporting": 2673,
+        "precincts_reporting": 2672,
         "precincts_total": 2855,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -18862,7 +18862,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2021-11-03T03:00:00.303Z",
+        "last_updated": "2021-11-03T03:02:02.397Z",
         "candidates": [
           {
             "candidate_id": "miyares-49434",
@@ -18875,7 +18875,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1549416,
+            "votes": 1549742,
             "percent": 50.9,
             "percent_display": "50.9",
             "electoral_votes": 0,
@@ -18896,7 +18896,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1492133,
+            "votes": 1492604,
             "percent": 49.1,
             "percent_display": "49.1",
             "electoral_votes": 0,
@@ -22479,9 +22479,9 @@
           {
             "fips": "51810",
             "name": "Virginia Beach",
-            "votes": 177386,
+            "votes": 178183,
             "absentee_votes": 73878,
-            "reporting": 103,
+            "reporting": 102,
             "precincts": 103,
             "absentee_method": null,
             "eevp": null,
@@ -22496,14 +22496,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miyaresj": 96280,
-              "herringm": 81106
+              "miyaresj": 96606,
+              "herringm": 81577
             },
             "results_absentee": {
               "miyaresj": 35483,
               "herringm": 38395
             },
-            "last_updated": "2021-11-03T02:58:59.620Z"
+            "last_updated": "2021-11-03T03:02:02.397Z"
           },
           {
             "fips": "51187",
@@ -23743,8 +23743,8 @@
     ]
   },
   "meta": {
-    "version": 1044,
+    "version": 1051,
     "track": "2021-11-02",
-    "timestamp": "2021-11-03T03:00:42.508Z"
+    "timestamp": "2021-11-03T03:02:42.640Z"
   }
 }
