@@ -539,7 +539,7 @@ html_output(
     "battleground-state-changes.html",
     html_table(battlegrounds_summarized),
     battleground_states_updated,
-    'Data for all 50 states and DC is <a href="all-state-changes.html">also available</a>.'
+    ''
 )
 html_output(
     "index.html",
