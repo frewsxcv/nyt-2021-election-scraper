@@ -40,10 +40,6 @@
         padding: .25rem .5rem;
     }
 
-    .table.shrunk tbody tr:not(.always-visible) {
-        display: none;
-    }
-
     thead td {
       background-color: #e9ecef;
       line-height: 1.2rem;
@@ -214,14 +210,13 @@
     </div>
     <div class="row">
         <div class="col-sm">
-            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2021-11-03 02:45:34 UTC</span> | Last batch: <span class="timestamp">2021-11-03 02:45:12 UTC</span> (Virginia)</p>
-            <div id="template-hash" style="display: none;">f06b3ea1281216ba30d34d86b8886671f7c780d2529fc6620a1bea2cab044dac</div>
-            <div id="page-metadata" style="display: none;">{"template_hash": "f06b3ea1281216ba30d34d86b8886671f7c780d2529fc6620a1bea2cab044dac", "results_hash": "55f4a735516e23f86511a088f8cd123ea4c0626f34abaf9702a02218d7f12cbe", "states_updated": ["VA"]}</div>
+            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2021-11-03 02:50:03 UTC</span> | Last batch: <span class="timestamp">2021-11-03 02:49:42 UTC</span> (Virginia)</p>
+            <div id="template-hash" style="display: none;">ffcf9105cf35748fd570e1eaa75b20c5afb32917c185a8be8fc4182b3dc7ad58</div>
+            <div id="page-metadata" style="display: none;">{"template_hash": "ffcf9105cf35748fd570e1eaa75b20c5afb32917c185a8be8fc4182b3dc7ad58", "results_hash": "1d8c0bf349f540dd7ad222e33c92a28d7d2eaa6684ebb5158440738c6492eea8", "states_updated": ["VA"]}</div>
         </div>
         <div class="col-sm">
             <p class="float-right">
             <button type='button' id='live_update_button' class='btn btn-secondary'>Enable Live Updates</button>
-            <button type='button' id='shrink_button' class='btn btn-secondary'>Shrink Tables</button>
             </p>
         </div>
     </div>
@@ -236,7 +231,7 @@
                     <span class="statename">Virginia (EV: None)</span>
                 </span>
                 <br>
-                Youngkin leads with 1,532,355 votes (51.6%), McAuliffe trails with 1,414,067 votes (47.7%).
+                Youngkin leads with 1,533,530 votes (51.6%), McAuliffe trails with 1,417,870 votes (47.7%).
             </td>
         </tr>
         <tr>
@@ -250,6 +245,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of estimated remaining votes (excluding third-party votes) does the trailing candidate need to take the lead? Since this assumes the proportion of third-party votes remains the same, this might deviate from the breakdown in batches where this is not the case.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr id="virginia-2021-11-03T02:49:42.517000" class="always-visible">
+            <td class="timestamp">2021-11-03 02:49:42 UTC</td>
+            <td class="Youngkin">Youngkin</td>
+            <td class="numeric">115,660</td>
+            <td class="numeric">Unknown</td>
+            <td class="has-tip numeric" data-toggle="tooltip" data-html="true" data-title="<strong>Estimated county-level breakdown:</strong><br><strong>Norfolk:</strong> 71%<br><strong>Chesterfield:</strong> 29%" title="Estimated county-level breakdown: Norfolk: 71%, Chesterfield: 29%">  4,978</td>
+    
+            <td>
+                Youngkin 23.6% /
+                76.4% McAuliffe
+            </td>
+        
+            <td>
+                McAuliffe is averaging 57.0%
+            </td>
+        
+            <td class="hurdle">Unknown</td>
+        </tr>
     
 
         <tr id="virginia-2021-11-03T02:45:12.544000" class="always-visible">
@@ -312,7 +327,7 @@
         </tr>
     
 
-        <tr id="virginia-2021-11-03T02:23:02.567000">
+        <tr id="virginia-2021-11-03T02:23:02.567000" class="always-visible">
             <td class="timestamp">2021-11-03 02:23:02 UTC</td>
             <td class="Youngkin">Youngkin</td>
             <td class="numeric">132,809</td>
@@ -332,7 +347,7 @@
         </tr>
     
 
-        <tr id="virginia-2021-11-03T02:21:22.456000">
+        <tr id="virginia-2021-11-03T02:21:22.456000" class="always-visible">
             <td class="timestamp">2021-11-03 02:21:22 UTC</td>
             <td class="Youngkin">Youngkin</td>
             <td class="numeric">133,799</td>
@@ -352,7 +367,7 @@
         </tr>
     
 
-        <tr id="virginia-2021-11-03T02:04:52.548000">
+        <tr id="virginia-2021-11-03T02:04:52.548000" class="always-visible">
             <td class="timestamp">2021-11-03 02:04:52 UTC</td>
             <td class="Youngkin">Youngkin</td>
             <td class="numeric">170,332</td>
@@ -372,7 +387,7 @@
         </tr>
     
 
-        <tr id="virginia-2021-11-03T02:03:52.525000">
+        <tr id="virginia-2021-11-03T02:03:52.525000" class="always-visible">
             <td class="timestamp">2021-11-03 02:03:52 UTC</td>
             <td class="Youngkin">Youngkin</td>
             <td class="numeric">172,586</td>
@@ -440,17 +455,6 @@
             })
         };
         loadTooltips();
-
-        /*
-        const shrinkTablesFeature = 'shrunk';
-        feature(shrinkTablesFeature, '#shrink_button', true, button => {
-            button.html('Expand Tables');
-            $('.table').addClass('shrunk');
-        }, button => {
-            button.html('Shrink Tables');
-            $('.table').removeClass('shrunk');
-        });
-        */
     </script>
 
     <script type="text/javascript">
@@ -529,7 +533,6 @@
             });
 
             loadTooltips();
-            refreshFeature(shrinkTablesFeature);
 
             return latestContent.metadata;
         };
